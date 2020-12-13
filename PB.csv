@@ -1,0 +1,1000 @@
+﻿id;datum;medewerker;locatie;reden;bedrag;uiterste_betaaldatum;betaald
+5;25-7-2020;P. van Doorn;Zonnenburg;Geen vergunning;175;24-8-2020;Nee
+4;10-4-2020;N. Molenaar;Grutterspoort;Betaling verlopen;55;10-5-2020;Nee
+5;17-8-2019;I. Martens;Plompetorenbrug;Geen vergunning;175;16-9-2019;Nee
+2;9-7-2019;O. de Groot;Jutphaascheweg;Dubbel geparkeerd;95;8-8-2019;Nee
+5;20-1-2020;R. de Haan;Heemskerkstraat;Geen vergunning;175;19-2-2020;Nee
+4;9-12-2018;L. Willems;Achterstraat 2e;Betaling verlopen;55;8-1-2019;Nee
+7;8-1-2019;D. Wolters;Choorstraat;Nooduitgang;85;7-2-2019;Nee
+2;5-5-2019;H. de Lange;Lakmoessteeg;Dubbel geparkeerd;95;4-6-2019;Nee
+4;23-11-2018;R. Koning;Tromstraat;Betaling verlopen;55;23-12-2018;Nee
+6;9-8-2020;N. Hoekstra;Molenwerfsteeg;Invalideparkeerplek;175;8-9-2020;Nee
+6;6-1-2019;D. de Ruiter;Hoogt;Invalideparkeerplek;175;5-2-2019;Nee
+7;23-11-2019;M. Smits;Kwakkeldijk;Nooduitgang;85;23-12-2019;Nee
+7;24-2-2020;U. Meijer;Keizerstraat;Nooduitgang;85;25-3-2020;Nee
+7;2-10-2020;Q. de Ruiter;Stadhouderslaan;Nooduitgang;85;1-11-2020;Nee
+7;5-11-2018;V. Evers;Bleijenburgkade;Nooduitgang;85;5-12-2018;Nee
+4;19-1-2020;F. van de Brink;Bloemstraat;Betaling verlopen;55;18-2-2020;Nee
+7;29-10-2020;S. van Dongen;Lijsterstraat;Nooduitgang;85;28-11-2020;Nee
+5;8-1-2019;T. de Bruin;Landstraat;Geen vergunning;175;7-2-2019;Nee
+3;14-5-2018;I. Bos;Asterstraat;Niet betaald;55;13-6-2018;Nee
+7;20-3-2019;W. Martens;Laurens Reaalstraat;Nooduitgang;85;19-4-2019;Nee
+2;31-10-2020;L. Meijer;Baarssteeg;Dubbel geparkeerd;95;30-11-2020;Nee
+6;23-1-2020;I. Hofman;Paarlstraat;Invalideparkeerplek;175;22-2-2020;Nee
+2;21-1-2019;V. Groen;Javastraat;Dubbel geparkeerd;95;20-2-2019;Nee
+2;19-9-2018;H. de Leeuw;Westerkade;Dubbel geparkeerd;95;19-10-2018;Nee
+4;11-6-2020;D. van de Ven;Manenburg;Betaling verlopen;55;11-7-2020;Nee
+5;27-2-2019;D. Driessen;Leuningsteeg;Geen vergunning;175;29-3-2019;Nee
+3;31-3-2019;S. Peters;Stationsdwarsstraat;Niet betaald;55;30-4-2019;Nee
+6;30-10-2020;T. Koster;Nicolaasweg;Invalideparkeerplek;175;29-11-2020;Nee
+7;3-1-2020;V. Smeets;Lamstraat;Nooduitgang;85;2-2-2020;Nee
+5;29-8-2019;L. de Ruiter;Nassaustraat;Geen vergunning;175;28-9-2019;Nee
+3;11-10-2019;H. Kuypers;Kl. Geertekerkhof;Niet betaald;55;10-11-2019;Nee
+6;6-4-2018;J. van den Velden;Protestantenhofje;Invalideparkeerplek;175;6-5-2018;Nee
+4;23-9-2020;K. van der Horst;Achterstraat 3e;Betaling verlopen;55;23-10-2020;Nee
+5;19-4-2018;G. Driessen;Hofje van Zessen;Geen vergunning;175;19-5-2018;Nee
+2;26-10-2019;N. de Wit;Prooststraat;Dubbel geparkeerd;95;25-11-2019;Nee
+5;9-4-2018;N. de Bruijn;Wijde Watersteeg;Geen vergunning;175;9-5-2018;Nee
+5;23-4-2019;I. van de Ven;Tuchthuisstraat;Geen vergunning;175;23-5-2019;Nee
+6;1-3-2018;T. Driessen;Oranjepark;Invalideparkeerplek;175;31-3-2018;Nee
+2;18-2-2019;R. van den Brink;Amsterdamsestraatweg;Dubbel geparkeerd;95;20-3-2019;Nee
+5;3-6-2018;K. van Leeuwen;Zandpad;Geen vergunning;175;3-7-2018;Nee
+5;10-1-2020;G. van den Broek;Alphenplein (van);Geen vergunning;175;9-2-2020;Nee
+3;13-12-2018;L. Martens;Lange Lauwerstraat;Niet betaald;55;12-1-2019;Nee
+4;9-11-2018;R. Huisman;Lange Lauwerstraat;Betaling verlopen;55;9-12-2018;Nee
+7;14-7-2020;Y. Hofman;Mariastraat;Nooduitgang;85;13-8-2020;Nee
+6;1-11-2018;Z. van Doorn;Dijkstraat;Invalideparkeerplek;175;1-12-2018;Nee
+7;23-5-2019;S. Smit;Spoorstraat;Nooduitgang;85;22-6-2019;Nee
+6;6-4-2020;W. Hermans;Brandsteeg;Invalideparkeerplek;175;6-5-2020;Nee
+2;13-10-2018;I. van den Velden;Domsteeg;Dubbel geparkeerd;95;12-11-2018;Nee
+6;20-8-2020;C. Kuiper;Costa, Da kade;Invalideparkeerplek;175;19-9-2020;Nee
+5;1-5-2018;J. Schipper;Kleine Tuinstraat;Geen vergunning;175;31-5-2018;Nee
+6;16-4-2018;Y. van den Bosch;Johan e Wittstraat;Invalideparkeerplek;175;16-5-2018;Nee
+6;8-5-2018;J. Visser;Lindestraat;Invalideparkeerplek;175;7-6-2018;Nee
+5;3-8-2018;O. Jansen;Achterstraat 1e;Geen vergunning;175;2-9-2018;Nee
+3;2-12-2019;P. van der Linden;Hartingstraat;Niet betaald;55;1-1-2020;Nee
+7;25-4-2020;T. van der Velde;Lombardpoort;Nooduitgang;85;25-5-2020;Nee
+2;27-3-2018;O. van der Berg;Gasthuissteeg;Dubbel geparkeerd;95;26-4-2018;Nee
+2;21-2-2019;D. Vermeulen;Massegast;Dubbel geparkeerd;95;23-3-2019;Nee
+6;3-12-2018;N. Visser;Zuilensteeg;Invalideparkeerplek;175;2-1-2019;Nee
+2;24-5-2020;V. van Dam;Werf a.d. Twijnstraat;Dubbel geparkeerd;95;23-6-2020;Nee
+5;5-9-2018;I. Peters;Pietersplein;Geen vergunning;175;5-10-2018;Nee
+7;29-4-2020;K. Smeets;Singelsteeg;Nooduitgang;85;29-5-2020;Nee
+4;15-10-2018;X. Scholten;Balistraat;Betaling verlopen;55;14-11-2018;Nee
+5;6-8-2018;P. Kok;Groenesteeg;Geen vergunning;175;5-9-2018;Nee
+6;16-9-2018;K. Peeters;Florastraat;Invalideparkeerplek;175;16-10-2018;Nee
+7;7-10-2018;E. de Leeuw;Kr. Nieuwegracht;Nooduitgang;85;6-11-2018;Nee
+5;11-1-2020;I. van Loon;Diaconessenstraat;Geen vergunning;175;10-2-2020;Nee
+4;11-11-2019;P. de Graaf;Westerkade;Betaling verlopen;55;11-12-2019;Nee
+5;1-10-2020;B. Mol;Zandpad;Geen vergunning;175;31-10-2020;Nee
+6;9-6-2019;X. van der Wal;Pietersplein;Invalideparkeerplek;175;9-7-2019;Nee
+7;13-4-2018;N. Willems;Amaliastraat;Nooduitgang;85;13-5-2018;Nee
+6;24-1-2019;N. Schouten;Gerard Doustraat;Invalideparkeerplek;175;23-2-2019;Nee
+2;26-12-2018;G. de Wit;Heerenweg;Dubbel geparkeerd;95;25-1-2019;Nee
+7;17-8-2019;Z. Timmermans;Jachtstraat;Nooduitgang;85;16-9-2019;Nee
+7;29-10-2018;F. van de Meer;Eloyensteeg;Nooduitgang;85;28-11-2018;Nee
+4;26-2-2019;Q. van den Bosch;Hanengeschrei;Betaling verlopen;55;28-3-2019;Nee
+2;15-11-2018;M. de Groot;Lange Lauwerstraat;Dubbel geparkeerd;95;15-12-2018;Nee
+3;25-5-2020;M. Smits;Frederikastraat;Niet betaald;55;24-6-2020;Nee
+7;7-9-2019;Z. de Bruin;Pauwstraat;Nooduitgang;85;7-10-2019;Nee
+7;3-9-2019;H. van den Pol;Elimos. V. Oud Munst.;Nooduitgang;85;3-10-2019;Nee
+7;31-8-2020;N. van den Bosch;Bellamystraat;Nooduitgang;85;30-9-2020;Nee
+3;25-8-2018;X. Groen;Poortstraat;Niet betaald;55;24-9-2018;Nee
+2;21-5-2020;A. van der Ven;Koningstraat;Dubbel geparkeerd;95;20-6-2020;Nee
+7;19-6-2020;W. Schipper;Mariahoek;Nooduitgang;85;19-7-2020;Nee
+7;8-3-2020;B. Verhoeven;Hamsteeg;Nooduitgang;85;7-4-2020;Nee
+7;16-6-2018;T. Koning;Koekoekstraat;Nooduitgang;85;16-7-2018;Nee
+2;7-5-2020;E. de Groot;Malakkastraat;Dubbel geparkeerd;95;6-6-2020;Nee
+2;6-11-2020;Q. de Bruijn;Korte Rozendaal;Dubbel geparkeerd;95;6-12-2020;Nee
+3;7-6-2019;M. van der Horst;Kockstraat;Niet betaald;55;7-7-2019;Nee
+4;14-4-2020;X. Kramer;Zonstraat;Betaling verlopen;55;14-5-2020;Nee
+3;8-4-2018;D. Kramer;Gildstraat;Niet betaald;55;8-5-2018;Nee
+6;22-9-2019;K. van der Meulen;Schoutenstraat;Invalideparkeerplek;175;22-10-2019;Nee
+7;31-10-2019;J. van der Wal;Buurkerkhof;Nooduitgang;85;30-11-2019;Nee
+5;9-3-2019;F. van der Laan;Buurkerksteeg 2e;Geen vergunning;175;8-4-2019;Nee
+7;13-10-2018;R. de Koning;Sluisstraat;Nooduitgang;85;12-11-2018;Nee
+6;13-8-2018;R. de Graaf;Bekkerstraat;Invalideparkeerplek;175;12-9-2018;Nee
+6;19-1-2020;D. Sanders;Manenburg;Invalideparkeerplek;175;18-2-2020;Nee
+2;23-8-2018;R. Peters;Schoolplein;Dubbel geparkeerd;95;22-9-2018;Nee
+2;12-5-2020;U. van der Horst;Willemstraat;Dubbel geparkeerd;95;11-6-2020;Nee
+3;16-12-2019;E. de Haan;Hoogenbergsteeg;Niet betaald;55;15-1-2020;Nee
+4;6-5-2018;H. Gerritsen;Jachtstraat;Betaling verlopen;55;5-6-2018;Nee
+7;28-9-2019;T. Huisman;Nauwe Watersteeg;Nooduitgang;85;28-10-2019;Nee
+2;25-12-2019;J. van Wijk;Rijnsteeg;Dubbel geparkeerd;95;24-1-2020;Nee
+4;9-11-2018;M. van den Broek;Brakelstraat (van);Betaling verlopen;55;9-12-2018;Nee
+6;14-6-2020;A. van de Pol;Vlijtstraat;Invalideparkeerplek;175;14-7-2020;Nee
+5;21-5-2020;V. Koster;Havikstraat;Geen vergunning;175;20-6-2020;Nee
+5;3-7-2019;J. Bos;Korte Lauwerstraat;Geen vergunning;175;2-8-2019;Nee
+5;2-9-2018;P. Driessen;Tuchthuisstraat;Geen vergunning;175;2-10-2018;Nee
+7;16-10-2018;G. Koning;Billitonkade;Nooduitgang;85;15-11-2018;Nee
+3;23-7-2020;J. van den Velde;Lange Jansstraat;Niet betaald;55;22-8-2020;Nee
+6;1-10-2019;B. Scholten;Sluisstraat;Invalideparkeerplek;175;31-10-2019;Nee
+4;29-12-2018;M. Willemsen;Emmalaan;Betaling verlopen;55;28-1-2019;Nee
+2;1-9-2019;G. van den Heuvel;Catharijnesingel;Dubbel geparkeerd;95;1-10-2019;Nee
+5;23-8-2020;F. van der Heijden;Arentzstraat;Geen vergunning;175;22-9-2020;Nee
+5;26-12-2019;P. Huisman;Domtrans;Geen vergunning;175;25-1-2020;Nee
+6;2-4-2019;K. van de Brink;Schoonhuispoort;Invalideparkeerplek;175;2-5-2019;Nee
+5;14-10-2018;D. Bos;Schutstraat;Geen vergunning;175;13-11-2018;Nee
+3;11-9-2018;L. van Loon;Frans Halsstraat;Niet betaald;55;11-10-2018;Nee
+3;30-10-2019;H. Koster;Renstraat;Niet betaald;55;29-11-2019;Nee
+2;7-10-2018;H. de Jong;Elisabethsteeg;Dubbel geparkeerd;95;6-11-2018;Nee
+3;8-3-2018;V. de Vries;Lange Rietsteeg;Niet betaald;55;7-4-2018;Nee
+6;15-3-2020;V. Hofman;Arentzstraat;Invalideparkeerplek;175;14-4-2020;Nee
+2;7-12-2019;P. Kuipers;Lange Hamstraat;Dubbel geparkeerd;95;6-1-2020;Nee
+5;26-3-2018;A. Kuiper;Wed;Geen vergunning;175;25-4-2018;Nee
+4;26-12-2018;R. van Loon;Antoniedijk;Betaling verlopen;55;25-1-2019;Nee
+4;6-8-2018;L. van de Velde;Leidschedwarsstraat;Betaling verlopen;55;5-9-2018;Nee
+3;8-8-2019;H. van der Meer;Groenestraat;Niet betaald;55;7-9-2019;Nee
+2;1-6-2018;O. de Jonge;Leuningsteeg;Dubbel geparkeerd;95;1-7-2018;Nee
+6;24-4-2020;K. de Graaf;Daendelsstraat;Invalideparkeerplek;175;24-5-2020;Nee
+7;10-9-2018;V. Kuipers;Slachtsteeg;Nooduitgang;85;10-10-2018;Nee
+5;2-6-2018;O. Hermans;Diaconessenstraat;Geen vergunning;175;2-7-2018;Nee
+5;31-5-2019;M. de Bruijn;Willemstraat;Geen vergunning;175;30-6-2019;Nee
+3;13-10-2020;J. Evers;Keukenstraat;Niet betaald;55;12-11-2020;Nee
+3;19-5-2020;H. van de Wal;Sluisstraat;Niet betaald;55;18-6-2020;Nee
+7;12-8-2018;L. Bakker;Baarssteeg;Nooduitgang;85;11-9-2018;Nee
+2;13-5-2018;K. Huisman;Lageweidsche dijk;Dubbel geparkeerd;95;12-6-2018;Nee
+5;2-8-2018;K. de Graaf;Jacobijnestraat;Geen vergunning;175;1-9-2018;Nee
+7;20-1-2019;Z. Verhoeven;Spieringpoort;Nooduitgang;85;19-2-2019;Nee
+4;16-3-2018;S. Kuypers;Corn. Evertsenstraat;Betaling verlopen;55;15-4-2018;Nee
+4;21-4-2019;D. Smeets;Schalkwijkstraat;Betaling verlopen;55;21-5-2019;Nee
+3;14-4-2018;M. Vermeulen;Pauwstraat;Niet betaald;55;14-5-2018;Nee
+3;13-10-2020;F. van de Pol;Schutterstraat;Niet betaald;55;12-11-2020;Nee
+4;21-10-2018;E. van der Meulen;Dillenburgstraat;Betaling verlopen;55;20-11-2018;Nee
+3;17-5-2020;J. van den Berg;Groenesteeg;Niet betaald;55;16-6-2020;Nee
+6;29-1-2019;L. van der Pol;Ezelsdijk;Invalideparkeerplek;175;28-2-2019;Nee
+5;18-9-2018;L. Kramer;Kweekstraat;Geen vergunning;175;18-10-2018;Nee
+3;20-4-2020;A. Evers;Nobelstraat;Niet betaald;55;20-5-2020;Nee
+4;24-7-2020;E. Kuijpers;Biltstraat;Betaling verlopen;55;23-8-2020;Nee
+3;7-9-2018;Y. Groen;Vleutensche Weg;Niet betaald;55;7-10-2018;Nee
+3;12-6-2019;K. van den Berg;Wijde Begijnestraat;Niet betaald;55;12-7-2019;Nee
+5;5-11-2018;A. Smits;Lucas Bolwerk;Geen vergunning;175;5-12-2018;Nee
+6;8-11-2020;A. Post;Rondpoort;Invalideparkeerplek;175;8-12-2020;Nee
+4;9-3-2019;X. de Jonge;Lennepstraat;Betaling verlopen;55;8-4-2019;Nee
+2;12-8-2019;P. van Wijk;Maetsuijkerstraat;Dubbel geparkeerd;95;11-9-2019;Nee
+4;26-7-2019;V. Schipper;Mulderstraat;Betaling verlopen;55;25-8-2019;Nee
+6;16-6-2019;N. Veenstra;Nathanaëlspoort;Invalideparkeerplek;175;16-7-2019;Nee
+2;8-8-2018;P. van Beek;Nicolaasdwarsstraat;Dubbel geparkeerd;95;7-9-2018;Nee
+6;17-9-2020;I. van de Meer;Sterrenhof;Invalideparkeerplek;175;17-10-2020;Nee
+3;16-4-2018;F. van der Velden;Joh. Willem Frisostraat;Niet betaald;55;16-5-2018;Nee
+5;11-10-2019;I. Kuipers;Hoog Glagenweerd;Geen vergunning;175;10-11-2019;Nee
+6;1-8-2018;D. Meyer;Willem Barentzstraat;Invalideparkeerplek;175;31-8-2018;Nee
+2;31-3-2018;B. van der Heyden;Lauwersteeg;Dubbel geparkeerd;95;30-4-2018;Nee
+2;16-6-2019;K. de Vos;Leeuwenst. Laan;Dubbel geparkeerd;95;16-7-2019;Nee
+3;1-4-2019;V. van de Meer;Gietershof;Niet betaald;55;1-5-2019;Nee
+4;23-11-2019;V. van der Berg;Lucas Bolwerk;Betaling verlopen;55;23-12-2019;Nee
+2;20-7-2020;F. van der Wal;Hulststraat;Dubbel geparkeerd;95;19-8-2020;Nee
+2;22-5-2020;B. van den Heuvel;Driesprong;Dubbel geparkeerd;95;21-6-2020;Nee
+3;23-8-2020;E. Vermeulen;Waterpoort;Niet betaald;55;22-9-2020;Nee
+4;20-1-2020;R. de Boer;Lange Viestraat;Betaling verlopen;55;19-2-2020;Nee
+6;20-7-2020;K. de Vries;Concordiastraat;Invalideparkeerplek;175;19-8-2020;Nee
+3;4-9-2018;R. Brouwer;Westerdijk;Niet betaald;55;4-10-2018;Nee
+2;9-8-2018;N. Wolters;Kaatstraat;Dubbel geparkeerd;95;8-9-2018;Nee
+2;16-1-2020;A. Peters;Jacobsplein;Dubbel geparkeerd;95;15-2-2020;Nee
+6;12-10-2019;T. Vink;Leidschedwarsstraat;Invalideparkeerplek;175;11-11-2019;Nee
+3;30-9-2018;L. Janssen;Kraanhof;Niet betaald;55;30-10-2018;Nee
+3;13-3-2020;C. van der Meulen;Tromstraat;Niet betaald;55;12-4-2020;Nee
+5;8-1-2020;V. Visser;Dijkstraat;Geen vergunning;175;7-2-2020;Nee
+4;4-12-2018;X. Blom;Jodenrijtje;Betaling verlopen;55;3-1-2019;Nee
+6;21-1-2019;U. Mol;Papaverstraat;Invalideparkeerplek;175;20-2-2019;Nee
+2;22-8-2020;Y. de Lange;Tolsteegbrug;Dubbel geparkeerd;95;21-9-2020;Nee
+7;20-6-2018;N. Jacobs;Achter Clarenburg;Nooduitgang;85;20-7-2018;Nee
+5;20-10-2019;F. van de Ven;Wijnpoort;Geen vergunning;175;19-11-2019;Nee
+4;21-9-2019;O. Jacobs;Kerkdwarsstraat;Betaling verlopen;55;21-10-2019;Nee
+2;11-4-2019;F. van Dam;Braamstraat;Dubbel geparkeerd;95;11-5-2019;Nee
+3;5-6-2018;G. Prins;Begijnesteeg 2e;Niet betaald;55;5-7-2018;Nee
+6;30-6-2019;Z. de Koning;Begijnekade;Invalideparkeerplek;175;30-7-2019;Nee
+4;9-4-2018;S. van Beek;Berkstraat;Betaling verlopen;55;9-5-2018;Nee
+5;15-11-2020;A. Peters;Veerstraat;Geen vergunning;175;15-12-2020;Nee
+2;26-10-2020;R. de Jong;Domtoren;Dubbel geparkeerd;95;25-11-2020;Nee
+2;4-5-2020;X. Kok;Dillenburgstraat;Dubbel geparkeerd;95;3-6-2020;Nee
+6;30-4-2018;F. van der Velde;Singelsteeg;Invalideparkeerplek;175;30-5-2018;Nee
+5;27-3-2018;G. de Wit;Maliestraat;Geen vergunning;175;26-4-2018;Nee
+4;24-3-2019;S. Postma;Biltstraat;Betaling verlopen;55;23-4-2019;Nee
+3;24-7-2018;W. van Dam;Spiegelpoort;Niet betaald;55;23-8-2018;Nee
+4;17-3-2018;B. de Bruijn;Ramstraat;Betaling verlopen;55;16-4-2018;Nee
+4;23-4-2019;F. de Groot;Leidsche Vaart;Betaling verlopen;55;23-5-2019;Nee
+5;1-10-2018;G. Bos;Stadhuisbrug;Geen vergunning;175;31-10-2018;Nee
+5;27-1-2019;H. Mulder;Hofsteeg;Geen vergunning;175;26-2-2019;Nee
+5;9-3-2020;H. Kramer;Damstraat;Geen vergunning;175;8-4-2020;Nee
+7;23-5-2019;T. Peters;Grutterssteeg;Nooduitgang;85;22-6-2019;Nee
+6;8-8-2019;W. van den Heuvel;Kolfstraat;Invalideparkeerplek;175;7-9-2019;Nee
+5;26-5-2020;B. Kramer;Jagerskade;Geen vergunning;175;25-6-2020;Nee
+5;10-10-2019;O. de Lange;Spijkerstraat;Geen vergunning;175;9-11-2019;Nee
+4;5-4-2018;R. de Wit;Stationsplein;Betaling verlopen;55;5-5-2018;Nee
+6;4-3-2018;L. van den Broek;Emmalaan;Invalideparkeerplek;175;3-4-2018;Nee
+2;14-3-2019;G. van den Bosch;Steenweg;Dubbel geparkeerd;95;13-4-2019;Nee
+4;11-11-2019;J. Vink;Kindgenshaven;Betaling verlopen;55;11-12-2019;Nee
+2;21-8-2019;I. van de Brink;Schoolplein;Dubbel geparkeerd;95;20-9-2019;Nee
+7;18-8-2019;Q. van der Meer;Jacobsplein;Nooduitgang;85;17-9-2019;Nee
+7;17-3-2020;O. van Dongen;Korte Jansstraat;Nooduitgang;85;16-4-2020;Nee
+5;22-12-2018;V. van der Meulen;Nooitgedacht;Geen vergunning;175;21-1-2019;Nee
+4;21-1-2019;S. Vos;Ganzenmarkt;Betaling verlopen;55;20-2-2019;Nee
+6;10-10-2019;B. Kuijpers;Kerkstraat;Invalideparkeerplek;175;9-11-2019;Nee
+3;23-9-2020;V. van den Broek;Baarssteeg;Niet betaald;55;23-10-2020;Nee
+7;6-8-2019;C. Evers;Otterstraat;Nooduitgang;85;5-9-2019;Nee
+5;27-9-2020;T. van den Broek;Jagerskade;Geen vergunning;175;27-10-2020;Nee
+6;31-7-2018;H. van de Brink;Schalkwijkstraat;Invalideparkeerplek;175;30-8-2018;Nee
+6;4-6-2020;U. van den Bosch;Nicolaasweg;Invalideparkeerplek;175;4-7-2020;Nee
+5;14-11-2019;P. van de Meer;Brakelstraat (van);Geen vergunning;175;14-12-2019;Nee
+7;28-12-2018;C. van Doorn;Jacobsgasthuissteeg;Nooduitgang;85;27-1-2019;Nee
+4;2-11-2019;P. de Haan;Dadelstraat;Betaling verlopen;55;2-12-2019;Nee
+5;7-4-2018;G. Blom;Oranjehofje;Geen vergunning;175;7-5-2018;Nee
+7;23-10-2019;H. de Boer;Hoogenoord;Nooduitgang;85;22-11-2019;Nee
+7;21-5-2019;X. Molenaar;Hugo de Grootstraat;Nooduitgang;85;20-6-2019;Nee
+4;27-10-2019;T. Gerritsen;Ekerenspoort;Betaling verlopen;55;26-11-2019;Nee
+6;26-11-2019;A. de Ruiter;Spieringpoort;Invalideparkeerplek;175;26-12-2019;Nee
+3;1-2-2020;B. van de Velde;Bankastraat;Niet betaald;55;2-3-2020;Nee
+5;17-3-2019;J. Verhoeven;Jacob Ruysdaelstraat;Geen vergunning;175;16-4-2019;Nee
+4;29-3-2020;A. de Graaf;Huppeldijk;Betaling verlopen;55;28-4-2020;Nee
+7;7-5-2018;M. van Leeuwen;Frederikastraat;Nooduitgang;85;6-6-2018;Nee
+3;19-12-2018;R. van den Heuvel;Bouwstraat;Niet betaald;55;18-1-2019;Nee
+7;8-7-2020;D. de Groot;Hoek v. St. Marie;Nooduitgang;85;7-8-2020;Nee
+2;25-7-2018;M. van Doorn;Nicolaaskerkhof;Dubbel geparkeerd;95;24-8-2018;Nee
+6;14-1-2019;F. van Vliet;Oudwijkerveldstraat;Invalideparkeerplek;175;13-2-2019;Nee
+5;23-12-2019;T. van de Wal;Minrebroederstraat;Geen vergunning;175;22-1-2020;Nee
+3;11-4-2018;Z. de Haan;Lange Rietsteeg;Niet betaald;55;11-5-2018;Nee
+5;6-8-2019;X. Janssen;Ledig Erf;Geen vergunning;175;5-9-2019;Nee
+4;17-5-2019;H. van der Heijden;Domtoren;Betaling verlopen;55;16-6-2019;Nee
+6;30-5-2019;G. Smit;Leistraat;Invalideparkeerplek;175;29-6-2019;Nee
+6;12-3-2020;X. van Dijk;Helling;Invalideparkeerplek;175;11-4-2020;Nee
+5;2-8-2019;G. Kuiper;Oudegracht (Tolst.);Geen vergunning;175;1-9-2019;Nee
+7;9-11-2018;B. Bos;Zaagmolenkade;Nooduitgang;85;9-12-2018;Nee
+3;20-9-2019;T. de Groot;Leuningsteeg;Niet betaald;55;20-10-2019;Nee
+7;18-4-2018;N. Timmermans;Cellebroederstraat;Nooduitgang;85;18-5-2018;Nee
+2;24-1-2019;B. de Boer;Maetsuijkerstraat;Dubbel geparkeerd;95;23-2-2019;Nee
+2;30-6-2020;G. van den Bosch;Prinsenhof;Dubbel geparkeerd;95;30-7-2020;Nee
+2;10-2-2019;F. van der Laan;Zeilsteeg;Dubbel geparkeerd;95;12-3-2019;Nee
+5;15-2-2020;Q. van der Wal;Oosterkade;Geen vergunning;175;16-3-2020;Nee
+2;10-1-2020;A. Hoekstra;Wijde Poort;Dubbel geparkeerd;95;9-2-2020;Nee
+5;31-3-2018;H. van Doorn;Lindestraat;Geen vergunning;175;30-4-2018;Nee
+4;24-6-2020;A. de Haan;Rijnsteeg;Betaling verlopen;55;24-7-2020;Nee
+6;17-3-2018;H. Smits;Museumlaan;Invalideparkeerplek;175;16-4-2018;Nee
+4;27-7-2018;I. van Leeuwen;Bleijenburgstraat;Betaling verlopen;55;26-8-2018;Nee
+4;15-4-2018;U. Gerritsen;Parkstraat;Betaling verlopen;55;15-5-2018;Nee
+7;19-3-2020;K. Visser;Antoniestraat;Nooduitgang;85;18-4-2020;Nee
+2;10-8-2018;E. van der Meer;Paarlstraat;Dubbel geparkeerd;95;9-9-2018;Nee
+5;1-7-2020;I. van den Velden;Bijlhouwerstraat;Geen vergunning;175;31-7-2020;Nee
+2;8-12-2018;O. de Vos;Blindesteeg;Dubbel geparkeerd;95;7-1-2019;Nee
+4;3-9-2019;H. Peters;Amsterdamsestraatweg;Betaling verlopen;55;3-10-2019;Nee
+3;14-7-2018;R. van de Velden;Bokstraat;Niet betaald;55;13-8-2018;Nee
+7;4-1-2020;V. Verhoeven;Jacobsplein;Nooduitgang;85;3-2-2020;Nee
+4;23-11-2018;J. de Wit;Prooststraat;Betaling verlopen;55;23-12-2018;Nee
+3;3-7-2019;C. de Jonge;Amaliastraat;Niet betaald;55;2-8-2019;Nee
+2;29-5-2020;U. van der Veen;Draaiweg;Dubbel geparkeerd;95;28-6-2020;Nee
+4;5-12-2019;L. van der Veen;Zaagstraat;Betaling verlopen;55;4-1-2020;Nee
+6;2-12-2019;M. Visser;Oranjehofje;Invalideparkeerplek;175;1-1-2020;Nee
+3;15-4-2020;R. Jonker;Hartingstraat;Niet betaald;55;15-5-2020;Nee
+7;26-7-2020;Y. Molenaar;Bleekerskade;Nooduitgang;85;25-8-2020;Nee
+7;24-7-2018;U. de Jonge;Koekoeksplein;Nooduitgang;85;23-8-2018;Nee
+4;7-12-2018;W. de Boer;Speykstraat (van);Betaling verlopen;55;6-1-2019;Nee
+7;12-11-2018;U. Hermans;Pieterstraat;Nooduitgang;85;12-12-2018;Nee
+5;24-1-2020;N. van de Veen;Stationsdwarsstraat;Geen vergunning;175;23-2-2020;Nee
+2;19-9-2018;M. Koning;Wijde Begijnestraat;Dubbel geparkeerd;95;19-10-2018;Nee
+4;10-3-2020;T. Schouten;Kerkdwarsstraat;Betaling verlopen;55;9-4-2020;Nee
+7;25-9-2020;L. van Veen;Riviersteeg;Nooduitgang;85;25-10-2020;Nee
+5;2-8-2019;U. Kuijpers;Achterstraat 3e;Geen vergunning;175;1-9-2019;Nee
+5;3-12-2018;J. Kuiper;Boorstraat;Geen vergunning;175;2-1-2019;Nee
+4;16-1-2019;V. de Haan;Schoutenstraat;Betaling verlopen;55;15-2-2019;Nee
+3;3-11-2018;P. van der Veen;Violenstraat;Niet betaald;55;3-12-2018;Nee
+3;8-12-2019;Q. de Bruin;Rondpoort;Niet betaald;55;7-1-2020;Nee
+7;27-1-2020;B. Hoekstra;Hugo de Grootstraat;Nooduitgang;85;26-2-2020;Nee
+6;14-2-2020;B. Kuiper;Noteboomenlaan;Invalideparkeerplek;175;15-3-2020;Nee
+3;28-10-2020;S. de Vries;Leidschedwarsstraat;Niet betaald;55;27-11-2020;Nee
+5;21-5-2019;R. Mol;Nassaustraat;Geen vergunning;175;20-6-2019;Nee
+6;17-10-2018;L. van der Berg;Mariahoek;Invalideparkeerplek;175;16-11-2018;Nee
+4;2-4-2018;S. Boer;Hoogravenschedijk;Betaling verlopen;55;2-5-2018;Nee
+4;5-8-2020;B. van de Brink;Lijsterstraat;Betaling verlopen;55;4-9-2020;Nee
+6;25-10-2020;G. van den Pol;Floris Heermalestraat;Invalideparkeerplek;175;24-11-2020;Nee
+6;11-7-2018;T. Janssen;Elimos. V. Oud Munst.;Invalideparkeerplek;175;10-8-2018;Nee
+7;9-9-2019;A. Koning;Munsterkerkhof;Nooduitgang;85;9-10-2019;Nee
+7;23-10-2018;S. Maas;Noorderstraat;Nooduitgang;85;22-11-2018;Nee
+7;16-2-2020;I. Peters;Oranjestraat;Nooduitgang;85;17-3-2020;Nee
+6;14-3-2019;N. Scholten;Domsteeg;Invalideparkeerplek;175;13-4-2019;Nee
+3;4-3-2018;Z. van der Linden;Teelingstraat;Niet betaald;55;3-4-2018;Nee
+6;3-8-2020;Z. Blom;Janskerkhof;Invalideparkeerplek;175;2-9-2020;Nee
+5;14-9-2020;N. van de Ven;Nicolaas Beetsstraat;Geen vergunning;175;14-10-2020;Nee
+7;11-9-2018;N. van den Bosch;Spijkerstraat;Nooduitgang;85;11-10-2018;Nee
+7;11-5-2019;Y. Evers;Geertekerkhof;Nooduitgang;85;10-6-2019;Nee
+2;12-5-2020;N. van de Velde;Kr. Elleboogsteeg;Dubbel geparkeerd;95;11-6-2020;Nee
+4;22-9-2018;A. van den Pol;Kl. Geertekerkhof;Betaling verlopen;55;22-10-2018;Nee
+5;15-9-2019;G. Driessen;Covelsteeg;Geen vergunning;175;15-10-2019;Nee
+5;20-7-2019;D. van Dongen;Bellamystraat;Geen vergunning;175;19-8-2019;Nee
+2;9-3-2020;Q. Hendriks;Fabriekstraat;Dubbel geparkeerd;95;8-4-2020;Nee
+3;18-2-2019;P. Koning;Flieruilensteeg;Niet betaald;55;20-3-2019;Nee
+7;11-7-2018;L. Kuypers;Diaconessenstraat;Nooduitgang;85;10-8-2018;Nee
+4;25-2-2020;Q. van der Velde;Annastraat;Betaling verlopen;55;26-3-2020;Nee
+5;12-11-2018;I. Mol;Raamsteeg;Geen vergunning;175;12-12-2018;Nee
+2;3-9-2019;E. Huisman;Billitonstraat;Dubbel geparkeerd;95;3-10-2019;Nee
+3;26-10-2019;X. Peeters;Havikstraat;Niet betaald;55;25-11-2019;Nee
+5;23-9-2018;B. Martens;Hennipstraat;Geen vergunning;175;23-10-2018;Nee
+7;7-10-2020;J. van der Meulen;Spiegelpoort;Nooduitgang;85;6-11-2020;Nee
+3;30-4-2018;R. de Leeuw;Buurkerksteeg 2e;Niet betaald;55;30-5-2018;Nee
+4;13-6-2020;J. Visser;Pasteurstraat;Betaling verlopen;55;13-7-2020;Nee
+3;9-6-2019;P. Willems;Poortstraat;Niet betaald;55;9-7-2019;Nee
+4;24-1-2019;S. Sanders;Tiendstraat;Betaling verlopen;55;23-2-2019;Nee
+2;12-10-2020;R. Bos;Boorstraat;Dubbel geparkeerd;95;11-11-2020;Nee
+6;30-9-2019;Q. Koster;Hieronymusplein;Invalideparkeerplek;175;30-10-2019;Nee
+7;6-9-2019;P. Koning;Violenstraat;Nooduitgang;85;6-10-2019;Nee
+5;10-3-2019;C. van de Meer;Vlietstraat;Geen vergunning;175;9-4-2019;Nee
+3;11-9-2018;O. Hendriks;Leidsche Vaart;Niet betaald;55;11-10-2018;Nee
+6;6-8-2020;V. Willems;Jodenrijtje;Invalideparkeerplek;175;5-9-2020;Nee
+5;26-9-2018;O. Hendriks;Lange Jufferstraat;Geen vergunning;175;26-10-2018;Nee
+5;17-6-2020;Y. Schipper;Paardenveld;Geen vergunning;175;17-7-2020;Nee
+7;12-9-2018;J. van den Velde;Westravenstraat;Nooduitgang;85;12-10-2018;Nee
+4;3-5-2018;M. Scholten;Achter St. Pieter;Betaling verlopen;55;2-6-2018;Nee
+5;25-9-2018;V. Hofman;Molenwerfsteeg;Geen vergunning;175;25-10-2018;Nee
+3;14-7-2018;O. van de Velde;Kruitstraat;Niet betaald;55;13-8-2018;Nee
+4;21-12-2018;R. Schipper;Grutterspoort;Betaling verlopen;55;20-1-2019;Nee
+7;31-7-2018;M. de Bruijn;Kroonstraat;Nooduitgang;85;30-8-2018;Nee
+4;20-2-2019;K. van den Brink;Schutstraat;Betaling verlopen;55;22-3-2019;Nee
+4;9-9-2019;L. Prins;Fockstraat;Betaling verlopen;55;9-10-2019;Nee
+7;30-7-2019;P. Bosman;Pieter Bothstraat;Nooduitgang;85;29-8-2019;Nee
+2;21-1-2020;O. van Dongen;Breedstraat;Dubbel geparkeerd;95;20-2-2020;Nee
+7;19-8-2018;F. van der Pol;Vinkenbuurt;Nooduitgang;85;18-9-2018;Nee
+6;2-7-2018;U. de Ruiter;Minutensteeg;Invalideparkeerplek;175;1-8-2018;Nee
+6;23-12-2018;Q. van de Veen;Kovelaarsdijk;Invalideparkeerplek;175;22-1-2019;Nee
+5;11-10-2018;X. van der Wal;Keizershof;Geen vergunning;175;10-11-2018;Nee
+3;9-3-2018;J. Smit;Korte Jufferstraat;Niet betaald;55;8-4-2018;Nee
+5;23-10-2018;O. de Haan;Kalverstraat;Geen vergunning;175;22-11-2018;Nee
+2;29-3-2020;S. van Dijk;Graanstraat;Dubbel geparkeerd;95;28-4-2020;Nee
+3;12-8-2018;I. Evers;Nauwe Blindesteeg;Niet betaald;55;11-9-2018;Nee
+3;7-8-2018;Q. van den Heuvel;Minutensteeg;Niet betaald;55;6-9-2018;Nee
+3;6-8-2019;L. de Wit;Frederik Hendrikstraat;Niet betaald;55;5-9-2019;Nee
+5;18-3-2018;O. Kuiper;Boogstraat;Geen vergunning;175;17-4-2018;Nee
+6;29-11-2019;D. van der Heyden;Boogstraat;Invalideparkeerplek;175;29-12-2019;Nee
+2;29-3-2019;T. Kuijpers;Braamstraat;Dubbel geparkeerd;95;28-4-2019;Nee
+6;18-7-2020;J. Martens;Kogelstraat;Invalideparkeerplek;175;17-8-2020;Nee
+2;7-9-2020;A. Willems;Gildstraat;Dubbel geparkeerd;95;7-10-2020;Nee
+6;14-11-2018;S. van der Laan;Groenesteeg;Invalideparkeerplek;175;14-12-2018;Nee
+5;16-5-2019;X. Meijer;Schepenmakerssteeg;Geen vergunning;175;15-6-2019;Nee
+6;8-7-2019;A. Meyer;Ezelsdijk;Invalideparkeerplek;175;7-8-2019;Nee
+7;12-6-2018;T. Kok;Walsteeg;Nooduitgang;85;12-7-2018;Nee
+4;2-4-2019;E. Dekker;Pieterserf;Betaling verlopen;55;2-5-2019;Nee
+2;12-8-2018;E. Schouten;Gasthuissteeg;Dubbel geparkeerd;95;11-9-2018;Nee
+4;23-11-2020;X. van Leeuwen;Pasteurstraat;Betaling verlopen;55;23-12-2020;Nee
+6;25-8-2019;T. van Doorn;Maliebaan;Invalideparkeerplek;175;24-9-2019;Nee
+6;1-8-2018;W. van Leeuwen;Wittevrouwenkade;Invalideparkeerplek;175;31-8-2018;Nee
+5;14-9-2019;Y. Timmermans;Wilgstraat;Geen vergunning;175;14-10-2019;Nee
+5;12-9-2020;B. van den Velden;Baanstraat;Geen vergunning;175;12-10-2020;Nee
+5;23-10-2019;S. van de Wal;Lijnmarkt;Geen vergunning;175;22-11-2019;Nee
+5;25-11-2019;Q. Maas;Wilgstraat;Geen vergunning;175;25-12-2019;Nee
+7;11-10-2018;C. van Leeuwen;Parkstraat;Nooduitgang;85;10-11-2018;Nee
+3;2-10-2019;F. Kramer;Renstraat;Niet betaald;55;1-11-2019;Nee
+5;3-2-2020;P. Post;Leeuwstraat;Geen vergunning;175;4-3-2020;Nee
+5;23-7-2020;Y. de Haan;Paardenveld;Geen vergunning;175;22-8-2020;Nee
+4;31-8-2019;N. Vermeulen;Oudwijkerdwarsstraat;Betaling verlopen;55;30-9-2019;Nee
+5;8-6-2018;H. van Dongen;Middellaan;Geen vergunning;175;8-7-2018;Nee
+7;13-9-2020;I. Schouten;Tulpstraat;Nooduitgang;85;13-10-2020;Nee
+2;22-2-2020;E. van der Linden;Vijfzusterpoort;Dubbel geparkeerd;95;23-3-2020;Nee
+4;20-6-2020;I. van de Meer;Arentzstraat;Betaling verlopen;55;20-7-2020;Nee
+2;15-10-2020;F. de Graaf;Costa, Da kade;Dubbel geparkeerd;95;14-11-2020;Nee
+3;30-4-2018;R. Dekker;Achterom;Niet betaald;55;30-5-2018;Nee
+3;31-10-2020;G. van de Wal;Gansstraat;Niet betaald;55;30-11-2020;Nee
+5;5-10-2019;C. van der Velde;Prooststraat;Geen vergunning;175;4-11-2019;Nee
+5;21-8-2019;B. van Vliet;Parkstraat;Geen vergunning;175;20-9-2019;Nee
+6;14-2-2020;W. Blom;Grutterssteeg;Invalideparkeerplek;175;15-3-2020;Nee
+2;16-3-2018;N. van der Veen;Lamstraat;Dubbel geparkeerd;95;15-4-2018;Nee
+2;4-1-2019;E. van den Velden;Delistraat 1e;Dubbel geparkeerd;95;3-2-2019;Nee
+7;1-2-2020;U. de Graaf;Korte Minrebroederstraat;Nooduitgang;85;2-3-2020;Nee
+4;1-9-2019;G. de Bruijn;Padangstraat;Betaling verlopen;55;1-10-2019;Nee
+5;29-11-2018;J. van den Broek;Korte Jansstraat;Geen vergunning;175;29-12-2018;Nee
+3;6-1-2019;C. van de Pol;Boorstraat;Niet betaald;55;5-2-2019;Nee
+2;9-1-2020;S. van de Meer;Javastraat;Dubbel geparkeerd;95;8-2-2020;Nee
+2;26-8-2018;M. van der Laan;Jacobsplein;Dubbel geparkeerd;95;25-9-2018;Nee
+4;27-7-2018;J. Mol;Biltstraat;Betaling verlopen;55;26-8-2018;Nee
+7;10-12-2019;G. Prins;Jodenrijtje;Nooduitgang;85;9-1-2020;Nee
+5;23-4-2018;Q. Willems;Diaconiepoort;Geen vergunning;175;23-5-2018;Nee
+3;3-9-2020;A. de Lange;Johan e Wittstraat;Niet betaald;55;3-10-2020;Nee
+7;1-10-2019;M. Prins;Jacob Ruysdaelstraat;Nooduitgang;85;31-10-2019;Nee
+4;30-4-2018;K. van Doorn;Grasstraat;Betaling verlopen;55;30-5-2018;Nee
+7;12-3-2018;O. Mol;Achterom;Nooduitgang;85;11-4-2018;Nee
+2;18-2-2019;W. Scholten;Balistraat;Dubbel geparkeerd;95;20-3-2019;Nee
+7;5-3-2020;P. van Doorn;Admir. Van Ghentstraat;Nooduitgang;85;4-4-2020;Nee
+2;24-9-2019;F. van der Ven;Bladstraat;Dubbel geparkeerd;95;24-10-2019;Nee
+3;3-10-2018;T. van de Brink;Gietershof;Niet betaald;55;2-11-2018;Nee
+5;19-8-2020;K. van de Veen;Hoek v. St. Marie;Geen vergunning;175;18-9-2020;Nee
+2;28-2-2019;X. Postma;Maliesingel;Dubbel geparkeerd;95;30-3-2019;Nee
+4;13-9-2020;C. van der Heyden;Vinkenbuurt;Betaling verlopen;55;13-10-2020;Nee
+6;14-7-2019;Y. Koster;Visschersplein;Invalideparkeerplek;175;13-8-2019;Nee
+6;15-4-2020;Q. Smit;Buurkerkhof;Invalideparkeerplek;175;15-5-2020;Nee
+2;9-4-2018;D. de Wit;Willem van Noortstraat;Dubbel geparkeerd;95;9-5-2018;Nee
+7;23-3-2019;C. van der Wal;Bloemstraat;Nooduitgang;85;22-4-2019;Nee
+5;12-5-2019;B. de Ruiter;Rondpoort;Geen vergunning;175;11-6-2019;Nee
+6;1-12-2018;D. de Bruin;Hennipstraat;Invalideparkeerplek;175;31-12-2018;Nee
+4;10-11-2020;N. Martens;Oosterkade;Betaling verlopen;55;10-12-2020;Nee
+7;1-11-2018;T. Bosman;Noorderstraat;Nooduitgang;85;1-12-2018;Nee
+4;6-7-2018;M. van der Velden;Pieterskerkhof;Betaling verlopen;55;5-8-2018;Nee
+4;9-6-2020;S. van der Velden;Looierstraat;Betaling verlopen;55;9-7-2020;Nee
+5;3-4-2020;B. van den Berg;Nieuwegracht;Geen vergunning;175;3-5-2020;Nee
+3;13-3-2020;S. van der Heyden;Minrebroederstraat;Niet betaald;55;12-4-2020;Nee
+7;15-6-2020;X. de Boer;Elimos. V. Oud Munst.;Nooduitgang;85;15-7-2020;Nee
+2;2-7-2018;Y. Kuypers;Haverland;Dubbel geparkeerd;95;1-8-2018;Nee
+5;24-6-2019;F. Hermans;Rotsoord;Geen vergunning;175;24-7-2019;Nee
+3;6-7-2018;Q. Driessen;Kranenburg;Niet betaald;55;5-8-2018;Nee
+5;19-10-2019;P. Mulder;Grasstraat;Geen vergunning;175;18-11-2019;Nee
+7;1-6-2020;F. van der Laan;Catharijnekade;Nooduitgang;85;1-7-2020;Nee
+6;31-3-2018;Z. Schipper;Koningsweg;Invalideparkeerplek;175;30-4-2018;Nee
+7;27-6-2020;Z. Veenstra;Kogelsteeg;Nooduitgang;85;27-7-2020;Nee
+6;24-8-2019;X. van Vliet;Spijkerdwarsstraat;Invalideparkeerplek;175;23-9-2019;Nee
+4;26-6-2020;G. Peters;Daendelsstraat;Betaling verlopen;55;26-7-2020;Nee
+4;19-2-2020;X. Groen;Tiendstraat;Betaling verlopen;55;20-3-2020;Nee
+2;17-8-2018;L. van der Linden;Landstraat;Dubbel geparkeerd;95;16-9-2018;Nee
+6;28-3-2019;V. Vermeulen;Kleine Singel;Invalideparkeerplek;175;27-4-2019;Nee
+2;4-5-2020;B. Bosch;Elisabethsteeg;Dubbel geparkeerd;95;3-6-2020;Nee
+4;30-6-2019;H. Willems;Vosstraat;Betaling verlopen;55;30-7-2019;Nee
+6;3-9-2018;N. de Wit;Corn. Evertsenstraat;Invalideparkeerplek;175;3-10-2018;Nee
+6;3-12-2019;Q. de Jong;Vleutensche Weg;Invalideparkeerplek;175;2-1-2020;Nee
+4;7-1-2020;B. van den Broek;Javastraat;Betaling verlopen;55;6-2-2020;Nee
+4;5-7-2020;P. van Veen;Grutterspoort;Betaling verlopen;55;4-8-2020;Nee
+3;9-11-2020;E. Huisman;Maetsuijkerstraat;Niet betaald;55;9-12-2020;Nee
+3;20-7-2018;B. de Ruiter;Horstdijk;Niet betaald;55;19-8-2018;Nee
+3;9-9-2020;Y. van Leeuwen;Minrebroederstraat;Niet betaald;55;9-10-2020;Nee
+7;24-8-2018;E. de Bruin;Jacobskerksteeg;Nooduitgang;85;23-9-2018;Nee
+2;21-11-2018;W. Veenstra;Zandstraat;Dubbel geparkeerd;95;21-12-2018;Nee
+6;29-9-2019;I. Smeets;Teelingstraat;Invalideparkeerplek;175;29-10-2019;Nee
+2;9-3-2018;S. van Veen;Brugsteeg;Dubbel geparkeerd;95;8-4-2018;Nee
+7;11-3-2019;Z. de Ruiter;Justus van Effenstraat;Nooduitgang;85;10-4-2019;Nee
+7;3-7-2018;W. Timmermans;Hennipstraat;Nooduitgang;85;2-8-2018;Nee
+3;24-4-2020;L. Kuypers;Jansveld;Niet betaald;55;24-5-2020;Nee
+3;5-11-2020;X. Groen;Munsterkerkhof;Niet betaald;55;5-12-2020;Nee
+4;29-10-2020;Q. van den Bosch;Kollewijsteeg;Betaling verlopen;55;28-11-2020;Nee
+5;5-6-2019;P. van Doorn;Brandsteeg;Geen vergunning;175;5-7-2019;Nee
+2;9-9-2019;F. van der Berg;Kievitstraat;Dubbel geparkeerd;95;9-10-2019;Nee
+7;23-9-2019;T. Maas;Koekoekstraat;Nooduitgang;85;23-10-2019;Nee
+3;19-1-2019;P. Vos;Magdalenastraat;Niet betaald;55;18-2-2019;Nee
+7;15-10-2018;G. Dijkstra;Wijckskade (van);Nooduitgang;85;14-11-2018;Nee
+3;31-10-2018;H. van de Ven;Sterrenhof;Niet betaald;55;30-11-2018;Nee
+7;7-5-2020;J. Jonker;Stationsstraat;Nooduitgang;85;6-6-2020;Nee
+6;27-1-2020;J. van Dongen;Staalstraat;Invalideparkeerplek;175;26-2-2020;Nee
+4;15-5-2018;P. Smeets;M.A. de Ruijterstraat;Betaling verlopen;55;14-6-2018;Nee
+4;4-3-2019;H. de Jong;Spechtstraat 1e;Betaling verlopen;55;3-4-2019;Nee
+4;22-3-2019;I. Hofman;Brandsteeg;Betaling verlopen;55;21-4-2019;Nee
+6;3-4-2020;R. van der Velde;Protestantenhofje;Invalideparkeerplek;175;3-5-2020;Nee
+4;5-2-2019;V. Wolters;Laurens Reaalstraat;Betaling verlopen;55;7-3-2019;Nee
+2;7-9-2018;L. Peeters;Lagenoord;Dubbel geparkeerd;95;7-10-2018;Nee
+5;1-9-2020;I. Post;Wijde Watersteeg;Geen vergunning;175;1-10-2020;Nee
+3;12-11-2018;G. Smit;Lakmoessteeg;Niet betaald;55;12-12-2018;Nee
+2;27-3-2020;L. de Boer;Lange Hartsteeg;Dubbel geparkeerd;95;26-4-2020;Nee
+3;7-2-2019;P. van de Wal;Choorstraat;Niet betaald;55;9-3-2019;Nee
+7;24-11-2019;W. Smit;Koolstraat;Nooduitgang;85;24-12-2019;Nee
+4;24-8-2019;T. Willems;Leidsche Kade;Betaling verlopen;55;23-9-2019;Nee
+3;3-9-2019;T. de Haan;Kloksteeg;Niet betaald;55;3-10-2019;Nee
+4;28-1-2020;S. van der Laan;Moreelsepark;Betaling verlopen;55;27-2-2020;Nee
+6;14-9-2018;P. Bosch;Nauwe Watersteeg;Invalideparkeerplek;175;14-10-2018;Nee
+4;9-1-2020;Q. van den Brink;Begijnehof;Betaling verlopen;55;8-2-2020;Nee
+5;25-5-2019;Q. van de Velden;Kersstraat;Geen vergunning;175;24-6-2019;Nee
+6;15-8-2020;V. Bos;Looierstraat;Invalideparkeerplek;175;14-9-2020;Nee
+4;4-12-2018;O. van Dongen;Croesestraat;Betaling verlopen;55;3-1-2019;Nee
+5;4-3-2018;O. van der Meer;Spiegelpoort;Geen vergunning;175;3-4-2018;Nee
+4;23-11-2020;W. Huisman;Justus van Effenstraat;Betaling verlopen;55;23-12-2020;Nee
+6;10-2-2019;R. van Dam;Dahliastraat;Invalideparkeerplek;175;12-3-2019;Nee
+2;13-12-2019;E. van Vliet;Hemdsmouwsteeg;Dubbel geparkeerd;95;12-1-2020;Nee
+3;29-6-2018;M. Peters;Groenestraat;Niet betaald;55;29-7-2018;Nee
+5;19-10-2019;M. Maas;Nauwe Watersteeg;Geen vergunning;175;18-11-2019;Nee
+3;20-2-2019;O. Blom;Wijde Watersteeg;Niet betaald;55;22-3-2019;Nee
+5;19-8-2018;Z. van de Berg;Croesestraat;Geen vergunning;175;18-9-2018;Nee
+3;26-12-2019;H. van der Linden;Breedstraat;Niet betaald;55;25-1-2020;Nee
+6;8-7-2018;Y. Bosman;Munsterkerkhof;Invalideparkeerplek;175;7-8-2018;Nee
+3;28-11-2018;K. Peeters;Spijkerstraat;Niet betaald;55;28-12-2018;Nee
+5;7-11-2020;T. van Vliet;Arentzstraat;Geen vergunning;175;7-12-2020;Nee
+3;11-9-2020;V. de Leeuw;Wittevrouwensingel;Niet betaald;55;11-10-2020;Nee
+3;3-11-2018;C. van den Pol;Achterom;Niet betaald;55;3-12-2018;Nee
+4;3-1-2019;S. van Doorn;Knopstraat;Betaling verlopen;55;2-2-2019;Nee
+5;17-3-2019;B. de Boer;Veensteeg;Geen vergunning;175;16-4-2019;Nee
+7;16-3-2019;O. van der Berg;Wijde Poort;Nooduitgang;85;15-4-2019;Nee
+4;30-7-2019;O. Peeters;Tiendstraat;Betaling verlopen;55;29-8-2019;Nee
+4;14-1-2019;V. van der Horst;Merwedekanaal;Betaling verlopen;55;13-2-2019;Nee
+7;14-6-2019;I. Schouten;Thinstraat;Nooduitgang;85;14-7-2019;Nee
+7;27-7-2019;B. van der Horst;Soendastraat;Nooduitgang;85;26-8-2019;Nee
+6;21-8-2020;Y. van der Meer;Sweelinckstraat;Invalideparkeerplek;175;20-9-2020;Nee
+5;13-8-2020;O. van der Laan;Alendorpsteeg;Geen vergunning;175;12-9-2020;Nee
+4;22-2-2020;N. Kuipers;Weistraat;Betaling verlopen;55;23-3-2020;Nee
+6;10-5-2019;V. Vermeulen;Keisteeg;Invalideparkeerplek;175;9-6-2019;Nee
+4;31-5-2018;S. van de Ven;Boothstraat;Betaling verlopen;55;30-6-2018;Nee
+5;7-9-2020;K. van der Veen;Runnebaan;Geen vergunning;175;7-10-2020;Nee
+6;20-3-2020;R. Jansen;Adriaanstraat;Invalideparkeerplek;175;19-4-2020;Nee
+6;16-11-2020;Z. van der Meer;Kr. Elleboogsteeg;Invalideparkeerplek;175;16-12-2020;Nee
+6;4-5-2019;P. Vink;Pieter Saenredamstraat;Invalideparkeerplek;175;3-6-2019;Nee
+7;5-8-2018;R. van Dijk;Twijnstraat;Nooduitgang;85;4-9-2018;Nee
+2;20-9-2019;P. van Wijk;Hovenstraat;Dubbel geparkeerd;95;20-10-2019;Nee
+3;12-1-2019;T. Wolters;Tromstraat;Niet betaald;55;11-2-2019;Nee
+6;2-10-2018;K. Kuijpers;Dirkje Mariastraat;Invalideparkeerplek;175;1-11-2018;Nee
+4;14-2-2019;V. Sanders;Runnebaan;Betaling verlopen;55;16-3-2019;Nee
+4;28-11-2018;K. de Graaf;M.A. de Ruijterstraat;Betaling verlopen;55;28-12-2018;Nee
+2;26-2-2019;D. van de Ven;Billitonkade;Dubbel geparkeerd;95;28-3-2019;Nee
+5;18-5-2019;I. Martens;Magdalenastraat;Geen vergunning;175;17-6-2019;Nee
+4;10-2-2019;O. Sanders;Boothstraat;Betaling verlopen;55;12-3-2019;Nee
+4;30-4-2020;H. Jansen;Blindesteeg;Betaling verlopen;55;30-5-2020;Nee
+2;25-7-2019;C. Peters;Loevenhout. Dijk;Dubbel geparkeerd;95;24-8-2019;Nee
+5;9-6-2019;Z. Wolters;Havikstraat;Geen vergunning;175;9-7-2019;Nee
+7;11-6-2019;N. Bosch;Schelpstraat;Nooduitgang;85;11-7-2019;Nee
+2;8-7-2018;O. Koning;Visscherssteeg;Dubbel geparkeerd;95;7-8-2018;Nee
+4;3-10-2020;W. de Lange;Daalschedijk 2e;Betaling verlopen;55;2-11-2020;Nee
+4;10-10-2020;N. van der Berg;Kindgenshaven;Betaling verlopen;55;9-11-2020;Nee
+3;21-9-2020;K. Scholten;Hoogelanden WZ;Niet betaald;55;21-10-2020;Nee
+7;4-2-2019;Z. Prins;Dondersstraat (F.C.);Nooduitgang;85;6-3-2019;Nee
+6;5-5-2019;O. Hendriks;Grutterssteeg;Invalideparkeerplek;175;4-6-2019;Nee
+6;14-7-2019;X. Maas;Steenstraat;Invalideparkeerplek;175;13-8-2019;Nee
+2;14-5-2019;R. Kuypers;Jansdam;Dubbel geparkeerd;95;13-6-2019;Nee
+4;3-7-2019;Z. Verhoeven;Kromme Rijn;Betaling verlopen;55;2-8-2019;Nee
+4;15-10-2019;M. van de Velden;Bankaplein;Betaling verlopen;55;14-11-2019;Nee
+4;30-4-2018;P. Kuypers;Hanengeschrei;Betaling verlopen;55;30-5-2018;Nee
+2;28-11-2019;D. de Bruijn;Bankaplein;Dubbel geparkeerd;95;28-12-2019;Nee
+5;14-5-2018;Y. Schouten;Catharijnekade;Geen vergunning;175;13-6-2018;Nee
+5;30-3-2018;M. Kuijpers;Lange Rietsteeg;Geen vergunning;175;29-4-2018;Nee
+6;9-12-2018;L. Jonker;Jacob Ruysdaelstraat;Invalideparkeerplek;175;8-1-2019;Nee
+5;28-9-2018;S. Brouwer;Wittevrouwensingel;Geen vergunning;175;28-10-2018;Nee
+4;13-10-2018;W. Gerritsen;Billitonstraat;Betaling verlopen;55;12-11-2018;Nee
+6;26-5-2020;K. van der Meer;Valkstraat;Invalideparkeerplek;175;25-6-2020;Nee
+7;15-10-2019;Q. van Veen;Leidsche Veer;Nooduitgang;85;14-11-2019;Nee
+2;2-5-2020;E. van den Velde;Hofje van Zessen;Dubbel geparkeerd;95;1-6-2020;Nee
+6;14-8-2019;B. de Lange;Pausdam;Invalideparkeerplek;175;13-9-2019;Nee
+6;12-4-2019;O. Vos;Wolvenplein;Invalideparkeerplek;175;12-5-2019;Nee
+7;16-12-2018;B. Koning;Wed;Nooduitgang;85;15-1-2019;Nee
+5;13-10-2020;G. van Veen;Oudwijkerlaan;Geen vergunning;175;12-11-2020;Nee
+6;4-4-2019;K. van der Horst;Koningslaan;Invalideparkeerplek;175;4-5-2019;Nee
+5;19-12-2018;D. Smits;Westerstraat;Geen vergunning;175;18-1-2019;Nee
+6;20-9-2020;L. van den Velde;Hulststraat;Invalideparkeerplek;175;20-10-2020;Nee
+4;26-7-2020;N. de Haan;Koekoekstraat;Betaling verlopen;55;25-8-2020;Nee
+2;27-8-2019;B. van der Laan;Johan e Wittstraat;Dubbel geparkeerd;95;26-9-2019;Nee
+7;1-7-2020;A. Janssen;Laddersteeg;Nooduitgang;85;31-7-2020;Nee
+6;23-4-2020;E. van den Velde;Daendelsstraat;Invalideparkeerplek;175;23-5-2020;Nee
+5;26-8-2019;V. Kramer;Moutstraat;Geen vergunning;175;25-9-2019;Nee
+6;20-8-2018;E. Bosch;Rozenhofje;Invalideparkeerplek;175;19-9-2018;Nee
+2;2-7-2020;A. Vink;Reguliersteeg;Dubbel geparkeerd;95;1-8-2020;Nee
+6;18-2-2020;Q. de Bruijn;Jeruzalemsteeg;Invalideparkeerplek;175;19-3-2020;Nee
+7;14-11-2019;S. Jansen;Dorstige-hartsteeg;Nooduitgang;85;14-12-2019;Nee
+2;30-8-2020;L. van de Ven;Zandstraat;Dubbel geparkeerd;95;29-9-2020;Nee
+4;10-4-2019;X. Meyer;Bellamystraat;Betaling verlopen;55;10-5-2019;Nee
+3;28-2-2018;Z. van den Brink;Frans Halsstraat;Niet betaald;55;30-3-2018;Nee
+2;24-7-2018;W. van de Pol;Paarlstraat;Dubbel geparkeerd;95;23-8-2018;Nee
+4;3-1-2019;R. van de Veen;Admir. Van Ghentstraat;Betaling verlopen;55;2-2-2019;Nee
+7;27-12-2019;D. Scholten;Kerkdwarsstraat;Nooduitgang;85;26-1-2020;Nee
+4;30-3-2020;S. Schouten;Griftstraat;Betaling verlopen;55;29-4-2020;Nee
+6;11-9-2018;I. Kuiper;Ondiep;Invalideparkeerplek;175;11-10-2018;Nee
+3;10-9-2018;Z. Peeters;Rijnstraat;Niet betaald;55;10-10-2018;Nee
+3;5-4-2020;P. Mol;Leeuwerikstraat;Niet betaald;55;5-5-2020;Nee
+3;22-1-2020;P. van de Brink;Jansveld;Niet betaald;55;21-2-2020;Nee
+7;18-5-2020;K. de Groot;Narcisstraat;Nooduitgang;85;17-6-2020;Nee
+4;24-12-2019;F. van der Heyden;Groenestraat;Betaling verlopen;55;23-1-2020;Nee
+5;26-8-2020;N. Brouwer;Achter St. Pieter;Geen vergunning;175;25-9-2020;Nee
+4;13-3-2020;G. van Dongen;Alendorpsteeg;Betaling verlopen;55;12-4-2020;Nee
+2;11-10-2020;E. Hoekstra;Bem. Weerd OZ;Dubbel geparkeerd;95;10-11-2020;Nee
+3;16-7-2018;L. van de Brink;Nauwe Begijnesteeg;Niet betaald;55;15-8-2018;Nee
+6;18-12-2018;S. Kuijpers;Zandstraat;Invalideparkeerplek;175;17-1-2019;Nee
+5;14-8-2019;O. Kuipers;Rozenhofje;Geen vergunning;175;13-9-2019;Nee
+2;16-4-2020;P. van der Heijden;Zwaluwstraat;Dubbel geparkeerd;95;16-5-2020;Nee
+7;13-9-2020;Y. de Bruin;Spijkerstraat;Nooduitgang;85;13-10-2020;Nee
+4;23-9-2020;N. Willems;Putsteeg;Betaling verlopen;55;23-10-2020;Nee
+3;9-11-2019;A. Jacobs;Riouwstraat;Niet betaald;55;9-12-2019;Nee
+2;26-9-2020;X. van der Horst;Eloyensteeg;Dubbel geparkeerd;95;26-10-2020;Nee
+4;29-8-2019;V. van Wijk;Frederikastraat;Betaling verlopen;55;28-9-2019;Nee
+5;15-4-2020;Z. Post;Lepelenburg;Geen vergunning;175;15-5-2020;Nee
+5;26-11-2020;W. Meijer;Groeneweg;Geen vergunning;175;26-12-2020;Nee
+5;26-5-2018;A. van den Pol;Boothstraat;Geen vergunning;175;25-6-2018;Nee
+5;13-11-2020;J. van der Linden;Hartingstraat;Geen vergunning;175;13-12-2020;Nee
+7;15-12-2018;D. van de Meer;Kerkstraat;Nooduitgang;85;14-1-2019;Nee
+5;19-10-2019;O. Postma;Visschersplein;Geen vergunning;175;18-11-2019;Nee
+6;14-3-2018;P. van den Pol;Graanstraat;Invalideparkeerplek;175;13-4-2018;Nee
+3;28-7-2020;J. Smit;Riouwstraat;Niet betaald;55;27-8-2020;Nee
+2;10-9-2020;E. van Dam;Hoogstraat;Dubbel geparkeerd;95;10-10-2020;Nee
+5;3-7-2018;K. Gerritsen;Ganzenmarkt;Geen vergunning;175;2-8-2018;Nee
+6;16-8-2019;J. Maas;Horstdijk;Invalideparkeerplek;175;15-9-2019;Nee
+7;24-3-2020;E. van de Velde;Kleine Slachtsteeg;Nooduitgang;85;23-4-2020;Nee
+4;9-7-2019;Z. Hoekstra;Markstraat;Betaling verlopen;55;8-8-2019;Nee
+6;17-7-2018;V. Schipper;Bleijenburgstraat;Invalideparkeerplek;175;16-8-2018;Nee
+4;10-9-2018;Y. Scholten;Wijde Watersteeg;Betaling verlopen;55;10-10-2018;Nee
+3;20-9-2018;U. Hoekstra;Arkenspoort;Niet betaald;55;20-10-2018;Nee
+7;20-7-2020;H. Vink;Speykstraat (van);Nooduitgang;85;19-8-2020;Nee
+3;26-7-2019;Y. Verhoeven;Renstraat;Niet betaald;55;25-8-2019;Nee
+6;12-8-2019;U. Hendriks;Kleine Slachtsteeg;Invalideparkeerplek;175;11-9-2019;Nee
+4;31-8-2019;Y. Dekker;Leidschedwarsstraat;Betaling verlopen;55;30-9-2019;Nee
+6;17-11-2018;A. de Graaf;Oudegracht (Weerd);Invalideparkeerplek;175;17-12-2018;Nee
+6;7-5-2018;N. Smeets;Potterstraat;Invalideparkeerplek;175;6-6-2018;Nee
+7;20-7-2018;I. de Boer;Bleekstraat;Nooduitgang;85;19-8-2018;Nee
+3;14-5-2018;Y. Willems;Willem van Noortstraat;Niet betaald;55;13-6-2018;Nee
+6;24-1-2020;N. Schipper;Kruitstraat;Invalideparkeerplek;175;23-2-2020;Nee
+4;12-11-2018;L. van der Wal;Paarlstraat;Betaling verlopen;55;12-12-2018;Nee
+6;15-11-2020;C. van den Bosch;Beverstraat;Invalideparkeerplek;175;15-12-2020;Nee
+6;2-4-2019;P. van de Wal;Bregittenstraat;Invalideparkeerplek;175;2-5-2019;Nee
+2;17-5-2020;R. van der Veen;Lijnpadsteeg;Dubbel geparkeerd;95;16-6-2020;Nee
+6;13-11-2020;G. van der Heijden;Dijkstraat;Invalideparkeerplek;175;13-12-2020;Nee
+3;20-7-2020;N. van der Meulen;Delistraat 1e;Niet betaald;55;19-8-2020;Nee
+4;30-10-2020;S. Koning;Brandsteeg;Betaling verlopen;55;29-11-2020;Nee
+2;4-7-2018;Y. Bosch;Frans Halsstraat;Dubbel geparkeerd;95;3-8-2018;Nee
+3;22-2-2019;J. Huisman;Vinkenbuurt;Niet betaald;55;24-3-2019;Nee
+2;21-8-2020;G. van den Broek;Merwedekanaal;Dubbel geparkeerd;95;20-9-2020;Nee
+5;31-1-2020;U. Dekker;Arentzstraat;Geen vergunning;175;1-3-2020;Nee
+5;27-5-2018;P. Mulder;Krielsteeg;Geen vergunning;175;26-6-2018;Nee
+6;28-12-2018;P. van der Pol;Rijnkade;Invalideparkeerplek;175;27-1-2019;Nee
+4;20-8-2020;V. de Vos;Pieterstraat;Betaling verlopen;55;19-9-2020;Nee
+2;5-11-2019;L. Smits;Ramstraat;Dubbel geparkeerd;95;5-12-2019;Nee
+4;2-5-2018;Q. van der Heijden;Hardebollenstraat;Betaling verlopen;55;1-6-2018;Nee
+5;26-10-2019;I. de Bruin;Zuilenstraat;Geen vergunning;175;25-11-2019;Nee
+4;10-5-2018;S. Hofman;Jacobskerkstraat;Betaling verlopen;55;9-6-2018;Nee
+2;30-9-2019;B. Vos;Roodepoort;Dubbel geparkeerd;95;30-10-2019;Nee
+5;10-8-2018;C. de Leeuw;Elisabethsteeg;Geen vergunning;175;9-9-2018;Nee
+2;28-11-2018;W. van der Ven;Ridderhofstad;Dubbel geparkeerd;95;28-12-2018;Nee
+7;25-4-2018;V. de Groot;Mariaplaats;Nooduitgang;85;25-5-2018;Nee
+2;16-11-2018;P. de Jong;Nauwe Blindesteeg;Dubbel geparkeerd;95;16-12-2018;Nee
+5;5-8-2018;L. van de Wal;Kwakkeldijk;Geen vergunning;175;4-9-2018;Nee
+7;10-7-2019;G. Visser;Asterstraat;Nooduitgang;85;9-8-2019;Nee
+5;29-6-2019;F. Brouwer;Korte Minrebroederstraat;Geen vergunning;175;29-7-2019;Nee
+3;21-6-2019;H. van der Velden;Donkerstraat;Niet betaald;55;21-7-2019;Nee
+4;27-12-2019;H. Martens;Achterstraat;Betaling verlopen;55;26-1-2020;Nee
+3;8-11-2019;I. van der Meer;Inundatiekade;Niet betaald;55;8-12-2019;Nee
+5;9-4-2018;V. de Bruijn;Bijlhouwerstraat;Geen vergunning;175;9-5-2018;Nee
+3;25-12-2018;N. de Graaf;Looierstraat;Niet betaald;55;24-1-2019;Nee
+7;2-7-2019;E. Postma;Waterpoort;Nooduitgang;85;1-8-2019;Nee
+6;11-6-2019;X. Smit;Jachtstraat;Invalideparkeerplek;175;11-7-2019;Nee
+6;23-7-2018;U. van den Brink;Steenweg;Invalideparkeerplek;175;22-8-2018;Nee
+6;16-10-2018;K. van den Berg;Schutterstraat;Invalideparkeerplek;175;15-11-2018;Nee
+5;18-5-2019;X. van den Bosch;Zuilensteeg;Geen vergunning;175;17-6-2019;Nee
+6;22-2-2019;D. Kramer;Nassaulaan;Invalideparkeerplek;175;24-3-2019;Nee
+4;17-10-2018;O. van der Ven;Prooststraat;Betaling verlopen;55;16-11-2018;Nee
+4;18-4-2020;C. Bosman;Drieharingstraat;Betaling verlopen;55;18-5-2020;Nee
+4;2-6-2020;O. Kuiper;Landstraat;Betaling verlopen;55;2-7-2020;Nee
+7;12-7-2018;Z. Scholten;Geertekerkhof;Nooduitgang;85;11-8-2018;Nee
+7;22-12-2018;A. Molenaar;Pasteurstraat;Nooduitgang;85;21-1-2019;Nee
+2;5-10-2019;T. de Leeuw;Stadhouderslaan;Dubbel geparkeerd;95;4-11-2019;Nee
+2;8-11-2020;N. Verhoeven;Imhoffstraat (van);Dubbel geparkeerd;95;8-12-2020;Nee
+3;17-9-2019;Y. Schipper;Croesestraat;Niet betaald;55;17-10-2019;Nee
+2;29-4-2019;B. de Bruijn;Singelstraat;Dubbel geparkeerd;95;29-5-2019;Nee
+6;24-4-2018;A. de Haan;Geertebolwerk;Invalideparkeerplek;175;24-5-2018;Nee
+7;5-9-2018;D. van den Velde;Oude Kamp;Nooduitgang;85;5-10-2018;Nee
+7;21-5-2018;F. Evers;Lange Lauwerstraat;Nooduitgang;85;20-6-2018;Nee
+6;1-2-2020;X. van de Ven;Obrechtstraat;Invalideparkeerplek;175;2-3-2020;Nee
+6;19-11-2018;N. Meijer;Nassaustraat;Invalideparkeerplek;175;19-12-2018;Nee
+7;10-3-2019;L. Mol;Protestantenhofje;Nooduitgang;85;9-4-2019;Nee
+4;11-6-2020;X. Prins;Keizershof;Betaling verlopen;55;11-7-2020;Nee
+2;12-8-2020;R. Hermans;Nobelstraat;Dubbel geparkeerd;95;11-9-2020;Nee
+2;28-3-2019;G. Prins;Schepenmakerssteeg;Dubbel geparkeerd;95;27-4-2019;Nee
+6;4-3-2019;F. van der Meer;hazelaarstraat;Invalideparkeerplek;175;3-4-2019;Nee
+6;7-6-2018;G. van Dijk;Laan van Puntenburg;Invalideparkeerplek;175;7-7-2018;Nee
+3;30-9-2019;Y. Dijkstra;Lakmoessteeg;Niet betaald;55;30-10-2019;Nee
+7;2-9-2018;A. Vink;Bellamystraat;Nooduitgang;85;2-10-2018;Nee
+5;30-10-2018;V. Hermans;Badstraat;Geen vergunning;175;29-11-2018;Nee
+4;28-3-2019;B. van der Heyden;Leidsche Weg;Betaling verlopen;55;27-4-2019;Nee
+5;19-11-2018;B. van de Velden;Kerkweg;Geen vergunning;175;19-12-2018;Nee
+7;3-5-2020;V. van der Velden;Kleine Lijnpad 1e;Nooduitgang;85;2-6-2020;Nee
+2;15-1-2020;S. Brouwer;Catharijnesingel;Dubbel geparkeerd;95;14-2-2020;Nee
+2;18-11-2019;N. Hoekstra;Kweekstraat;Dubbel geparkeerd;95;18-12-2019;Nee
+4;27-10-2019;Y. Jacobs;Twijnstraat;Betaling verlopen;55;26-11-2019;Nee
+2;1-7-2020;X. Meijer;Gasthuissteeg;Dubbel geparkeerd;95;31-7-2020;Nee
+5;8-10-2019;W. van Wijk;Vijfzusterpoort;Geen vergunning;175;7-11-2019;Nee
+7;13-4-2018;Q. Scholten;Molensteeg;Nooduitgang;85;13-5-2018;Nee
+3;1-4-2018;J. Koning;Soendastraat;Niet betaald;55;1-5-2018;Nee
+3;30-9-2018;N. Meijer;Vischmarkt;Niet betaald;55;30-10-2018;Nee
+7;17-9-2018;W. van de Velden;Molenwerfsteeg;Nooduitgang;85;17-10-2018;Nee
+7;29-9-2018;B. Huisman;Staalstraat;Nooduitgang;85;29-10-2018;Nee
+6;10-7-2018;J. van de Ven;Javastraat;Invalideparkeerplek;175;9-8-2018;Nee
+3;22-3-2019;H. van der Meer;Keizershof;Niet betaald;55;21-4-2019;Nee
+6;7-4-2020;T. Visser;Lange Jansstraat;Invalideparkeerplek;175;7-5-2020;Nee
+7;29-11-2018;V. van Dam;Inundatiekade;Nooduitgang;85;29-12-2018;Nee
+5;3-4-2018;K. de Wit;Schoolplein;Geen vergunning;175;3-5-2018;Nee
+6;1-2-2020;G. Willemsen;Willemstraat;Invalideparkeerplek;175;2-3-2020;Nee
+2;28-7-2020;P. van de Velde;Padangstraat;Dubbel geparkeerd;95;27-8-2020;Nee
+2;18-5-2020;F. Koster;Kerksteeg;Dubbel geparkeerd;95;17-6-2020;Nee
+2;27-3-2018;Z. van der Wal;Korte Hamsteeg;Dubbel geparkeerd;95;26-4-2018;Nee
+5;24-5-2019;Y. de Vos;Grutterspoort;Geen vergunning;175;23-6-2019;Nee
+4;4-7-2020;W. Willems;Willem van Noortstraat;Betaling verlopen;55;3-8-2020;Nee
+4;28-11-2018;O. Evers;Vijfzusterpoort;Betaling verlopen;55;28-12-2018;Nee
+6;11-5-2018;L. Kuipers;Bolstraat;Invalideparkeerplek;175;10-6-2018;Nee
+7;23-11-2018;L. Jacobs;Bregittenstraat;Nooduitgang;85;23-12-2018;Nee
+3;18-9-2020;M. de Bruijn;Schroeder van der Kolkstraat;Niet betaald;55;18-10-2020;Nee
+2;16-2-2020;E. Bakker;Dillenburgstraat;Dubbel geparkeerd;95;17-3-2020;Nee
+7;26-4-2018;Y. Dijkstra;Imhoffstraat (van);Nooduitgang;85;26-5-2018;Nee
+5;12-4-2020;E. Wolters;Laan van Puntenburg;Geen vergunning;175;12-5-2020;Nee
+6;14-11-2019;S. Martens;Kleine Lijnpad 1e;Invalideparkeerplek;175;14-12-2019;Nee
+6;27-3-2018;C. Sanders;Ridderhofstad;Invalideparkeerplek;175;26-4-2018;Nee
+3;6-7-2019;C. Kok;Maliestraat;Niet betaald;55;5-8-2019;Nee
+4;7-8-2018;B. van den Velden;Hagelstraat;Betaling verlopen;55;6-9-2018;Nee
+5;29-6-2019;W. Hendriks;Renstraat;Geen vergunning;175;29-7-2019;Nee
+3;6-5-2018;C. Veenstra;Raamsteeg;Niet betaald;55;5-6-2018;Nee
+4;16-11-2019;G. Molenaar;Magdalenastraat;Betaling verlopen;55;16-12-2019;Nee
+6;21-10-2018;Z. Kuijpers;Draaiweg;Invalideparkeerplek;175;20-11-2018;Nee
+4;19-7-2020;A. van den Berg;Keizerstraat;Betaling verlopen;55;18-8-2020;Nee
+2;5-4-2018;G. van den Brink;Jacobskerkstraat;Dubbel geparkeerd;95;5-5-2018;Nee
+5;5-11-2019;D. van den Velden;Heerenhofje;Geen vergunning;175;5-12-2019;Nee
+7;1-9-2020;D. van Dongen;Krommerijnstraat;Nooduitgang;85;1-10-2020;Nee
+4;26-1-2019;G. Willems;Leidschedwarsstraat;Betaling verlopen;55;25-2-2019;Nee
+6;23-9-2020;H. van der Heyden;Donkerstraat;Invalideparkeerplek;175;23-10-2020;Nee
+6;23-4-2018;V. Post;Jodenrijtje;Invalideparkeerplek;175;23-5-2018;Nee
+3;9-2-2020;B. de Boer;Speykstraat (van);Niet betaald;55;10-3-2020;Nee
+7;27-9-2020;H. van der Pol;Wijckstraat (van);Nooduitgang;85;27-10-2020;Nee
+4;31-7-2020;D. Groen;Weerdsingel O.Z.;Betaling verlopen;55;30-8-2020;Nee
+5;31-7-2018;A. van der Pol;Elimos. V. Oud Munst.;Geen vergunning;175;30-8-2018;Nee
+5;4-7-2019;V. Koster;Keizerspoort;Geen vergunning;175;3-8-2019;Nee
+5;9-11-2020;S. de Lange;Dijkstraat;Geen vergunning;175;9-12-2020;Nee
+4;10-2-2020;X. Kramer;Borneostraat;Betaling verlopen;55;11-3-2020;Nee
+7;7-3-2020;Y. van den Velden;Kolfstraat;Nooduitgang;85;6-4-2020;Nee
+3;29-10-2019;M. van Loon;Achterstraat 1e;Niet betaald;55;28-11-2019;Nee
+2;21-6-2019;R. Huisman;Wolfaartsteeg;Dubbel geparkeerd;95;21-7-2019;Nee
+2;30-11-2019;P. Hofman;Lekstraat;Dubbel geparkeerd;95;30-12-2019;Nee
+2;26-6-2019;P. van der Meer;Agnietenstraat;Dubbel geparkeerd;95;26-7-2019;Nee
+7;13-7-2018;D. van de Velden;Bleekerskade;Nooduitgang;85;12-8-2018;Nee
+2;17-3-2020;T. van de Veen;Pallaesstraat;Dubbel geparkeerd;95;16-4-2020;Nee
+5;17-1-2020;Z. van de Brink;Laurens Reaalstraat;Geen vergunning;175;16-2-2020;Nee
+3;21-6-2020;Y. van Vliet;Lange Lauwerstraat;Niet betaald;55;21-7-2020;Nee
+2;24-8-2019;D. Groen;Weistraat;Dubbel geparkeerd;95;23-9-2019;Nee
+5;15-3-2018;A. Dekker;M.A. de Ruijterstraat;Geen vergunning;175;14-4-2018;Nee
+5;12-9-2018;Y. Gerritsen;Lauwersteeg;Geen vergunning;175;12-10-2018;Nee
+2;20-10-2018;K. Scholten;Weerdsingel O.Z.;Dubbel geparkeerd;95;19-11-2018;Nee
+4;5-2-2020;J. Mulder;Achterom;Betaling verlopen;55;6-3-2020;Nee
+2;2-3-2019;E. Kuypers;Lanceepoort;Dubbel geparkeerd;95;1-4-2019;Nee
+2;4-9-2018;J. van de Brink;Muntsteeg;Dubbel geparkeerd;95;4-10-2018;Nee
+5;31-8-2020;J. de Wit;Mariastraat;Geen vergunning;175;30-9-2020;Nee
+7;29-10-2020;P. Mulder;Zandstraat;Nooduitgang;85;28-11-2020;Nee
+2;17-11-2018;B. de Jonge;Kockstraat;Dubbel geparkeerd;95;17-12-2018;Nee
+5;8-12-2019;X. Dijkstra;Wolvenplein;Geen vergunning;175;7-1-2020;Nee
+6;1-8-2018;I. van der Pol;Molensteeg;Invalideparkeerplek;175;31-8-2018;Nee
+5;5-9-2020;G. van den Berg;Kaatstraat;Geen vergunning;175;5-10-2020;Nee
+7;25-12-2018;Z. de Jonge;Wittevrouwensingel;Nooduitgang;85;24-1-2019;Nee
+4;11-3-2018;B. van Leeuwen;Boschstraat;Betaling verlopen;55;10-4-2018;Nee
+6;17-8-2019;O. van Dijk;Johan e Wittstraat;Invalideparkeerplek;175;16-9-2019;Nee
+7;5-7-2020;V. van der Ven;Dijkstraat;Nooduitgang;85;4-8-2020;Nee
+4;28-1-2019;P. Molenaar;Agnietenstraat;Betaling verlopen;55;27-2-2019;Nee
+3;29-7-2018;Y. Bosman;Muntstraat;Niet betaald;55;28-8-2018;Nee
+4;25-3-2018;A. Bosman;Servaasbolwerk;Betaling verlopen;55;24-4-2018;Nee
+5;7-11-2019;F. van der Veen;Hennipstraat;Geen vergunning;175;7-12-2019;Nee
+7;1-4-2020;U. Evers;Keisteeg;Nooduitgang;85;1-5-2020;Nee
+3;6-3-2018;H. van Dijk;Nieuwe Kamp;Niet betaald;55;5-4-2018;Nee
+6;19-6-2020;G. de Graaf;Slachtsteeg;Invalideparkeerplek;175;19-7-2020;Nee
+3;17-10-2020;A. van den Velde;Janskerkhof;Niet betaald;55;16-11-2020;Nee
+3;19-10-2019;O. Groen;Kleine Lijnpad 1e;Niet betaald;55;18-11-2019;Nee
+3;4-11-2018;D. Jansen;Kroonstraat;Niet betaald;55;4-12-2018;Nee
+5;10-9-2019;N. van den Pol;Korte Smeestraat;Geen vergunning;175;10-10-2019;Nee
+7;22-9-2019;B. Meijer;Westravenstraat;Nooduitgang;85;22-10-2019;Nee
+3;14-4-2020;N. van der Meer;Kruisweg;Niet betaald;55;14-5-2020;Nee
+7;31-5-2020;C. Peters;Paardenveld;Nooduitgang;85;30-6-2020;Nee
+7;16-3-2018;Z. de Groot;Kanonstraat;Nooduitgang;85;15-4-2018;Nee
+5;14-4-2020;D. van Beek;Jutphaascheweg;Geen vergunning;175;14-5-2020;Nee
+7;11-12-2019;G. de Bruijn;Agnietenstraat;Nooduitgang;85;10-1-2020;Nee
+5;17-10-2018;U. Kok;Minkade;Geen vergunning;175;16-11-2018;Nee
+2;22-5-2020;S. de Bruin;Wijnpoort;Dubbel geparkeerd;95;21-6-2020;Nee
+4;12-4-2018;Y. Verhoeven;Waterpoort;Betaling verlopen;55;12-5-2018;Nee
+6;9-4-2020;T. de Jong;Meidoornstraat;Invalideparkeerplek;175;9-5-2020;Nee
+2;24-6-2018;C. Kok;Daalschedijk 1e;Dubbel geparkeerd;95;24-7-2018;Nee
+2;18-7-2020;B. van der Veen;Groeneweg;Dubbel geparkeerd;95;17-8-2020;Nee
+7;12-8-2018;K. Hermans;Tulpstraat;Nooduitgang;85;11-9-2018;Nee
+2;6-11-2019;H. Blom;Elijnshof;Dubbel geparkeerd;95;6-12-2019;Nee
+7;31-12-2018;P. van de Ven;Oudegracht (Tolst.);Nooduitgang;85;30-1-2019;Nee
+2;7-5-2020;I. Hofman;Hoogravenschedijk;Dubbel geparkeerd;95;6-6-2020;Nee
+4;12-3-2019;U. van der Ven;Kruitstraat;Betaling verlopen;55;11-4-2019;Nee
+6;24-7-2020;V. van Dongen;Lange Elisabethstraat;Invalideparkeerplek;175;23-8-2020;Nee
+5;8-12-2019;U. Groen;Nassaulaan;Geen vergunning;175;7-1-2020;Nee
+5;25-12-2019;V. Timmermans;Arentzstraat;Geen vergunning;175;24-1-2020;Nee
+5;14-9-2020;J. Meyer;Leidsche Weg;Geen vergunning;175;14-10-2020;Nee
+3;4-6-2020;K. de Leeuw;Brugsteeg;Niet betaald;55;4-7-2020;Nee
+4;11-6-2018;O. Driessen;Stadhuisbrug;Betaling verlopen;55;11-7-2018;Nee
+7;2-9-2020;S. Kuijpers;Joh. Camphuysstraat;Nooduitgang;85;2-10-2020;Nee
+5;28-10-2018;Q. Vos;Iepstraat;Geen vergunning;175;27-11-2018;Nee
+4;18-12-2018;B. Hermans;Borneostraat;Betaling verlopen;55;17-1-2019;Nee
+3;4-6-2018;O. de Groot;Paardenveld;Niet betaald;55;4-7-2018;Nee
+6;15-11-2018;F. van Veen;Looierstraat;Invalideparkeerplek;175;15-12-2018;Nee
+7;20-9-2019;A. de Ruiter;Willemstraat;Nooduitgang;85;20-10-2019;Nee
+5;6-1-2020;U. Visser;Kanaalstraat;Geen vergunning;175;5-2-2020;Nee
+7;24-9-2019;V. van Veen;Driesprong;Nooduitgang;85;24-10-2019;Nee
+3;21-3-2018;K. de Jonge;Kerksteeg;Niet betaald;55;20-4-2018;Nee
+2;11-7-2018;M. de Wit;Diaconiepoort;Dubbel geparkeerd;95;10-8-2018;Nee
+7;26-4-2020;A. van den Velde;Muntsteeg;Nooduitgang;85;26-5-2020;Nee
+5;7-5-2020;V. de Haan;Kromme Rijn;Geen vergunning;175;6-6-2020;Nee
+3;3-8-2018;G. Evers;Keukenstraat;Niet betaald;55;2-9-2018;Nee
+3;16-4-2018;K. van der Laan;Burgstraat;Niet betaald;55;16-5-2018;Nee
+3;15-5-2019;D. Prins;Speykstraat (van);Niet betaald;55;14-6-2019;Nee
+6;29-10-2020;Z. Willemsen;Gogschesteeg;Invalideparkeerplek;175;28-11-2020;Nee
+4;20-5-2019;A. Meyer;Joan van Oldenbarneveldtlaan;Betaling verlopen;55;19-6-2019;Nee
+5;7-5-2018;R. van der Meer;Kroonsteeg;Geen vergunning;175;6-6-2018;Nee
+6;28-3-2019;U. de Lange;Jacobskerksteeg;Invalideparkeerplek;175;27-4-2019;Nee
+3;12-2-2019;A. de Bruyn;Vlietstraat;Niet betaald;55;14-3-2019;Nee
+7;27-7-2018;J. van Vliet;Maliebaan;Nooduitgang;85;26-8-2018;Nee
+6;7-2-2019;K. van der Velde;Klaverstraat;Invalideparkeerplek;175;9-3-2019;Nee
+5;15-5-2020;K. van Dam;Baansteeg 1e;Geen vergunning;175;14-6-2020;Nee
+7;11-6-2018;Y. Bos;Servetstraat;Nooduitgang;85;11-7-2018;Nee
+7;4-5-2019;P. van de Velden;Laddersteeg;Nooduitgang;85;3-6-2019;Nee
+7;12-5-2018;B. van den Pol;Grasstraat;Nooduitgang;85;11-6-2018;Nee
+6;11-3-2019;I. van den Velden;Laan van Puntenburg;Invalideparkeerplek;175;10-4-2019;Nee
+3;25-8-2020;O. Kramer;Kersstraat;Niet betaald;55;24-9-2020;Nee
+3;19-11-2018;S. Jonker;Paarlstraat;Niet betaald;55;19-12-2018;Nee
+7;27-3-2020;D. Kramer;Sweelinckstraat;Nooduitgang;85;26-4-2020;Nee
+6;3-6-2018;D. van der Heyden;Janskerkhof;Invalideparkeerplek;175;3-7-2018;Nee
+5;5-11-2019;X. Bosman;Zeedijk;Geen vergunning;175;5-12-2019;Nee
+7;21-3-2018;O. Verhoeven;Paijenborgsteeg;Nooduitgang;85;20-4-2018;Nee
+3;29-9-2019;I. van Leeuwen;Leidsche Vaart;Niet betaald;55;29-10-2019;Nee
+2;13-8-2019;P. de Vries;Krielsteeg;Dubbel geparkeerd;95;12-9-2019;Nee
+2;5-3-2020;A. Postma;Baarssteeg;Dubbel geparkeerd;95;4-4-2020;Nee
+4;7-12-2018;B. van den Berg;Potterstraat;Betaling verlopen;55;6-1-2019;Nee
+7;20-5-2019;Z. Scholten;Veldstraat;Nooduitgang;85;19-6-2019;Nee
+5;13-9-2018;C. Meyer;Fabriekstraat;Geen vergunning;175;13-10-2018;Nee
+4;6-11-2020;B. de Lange;Geertestraat;Betaling verlopen;55;6-12-2020;Nee
+6;23-4-2019;X. Meijer;Achter Twijnstraat;Invalideparkeerplek;175;23-5-2019;Nee
+3;17-11-2019;K. Sanders;Voor Clarenburg;Niet betaald;55;17-12-2019;Nee
+7;15-2-2019;A. Mulder;Westerdijk;Nooduitgang;85;17-3-2019;Nee
+2;17-2-2019;E. Kuipers;Boomstraat;Dubbel geparkeerd;95;19-3-2019;Nee
+7;27-9-2018;U. Gerritsen;Jansteeg;Nooduitgang;85;27-10-2018;Nee
+2;21-5-2020;B. van de Velde;Keizersgracht;Dubbel geparkeerd;95;20-6-2020;Nee
+4;21-3-2019;U. van den Velde;Florastraat;Betaling verlopen;55;20-4-2019;Nee
+4;2-12-2018;B. Kuiper;Voor Clarenburg;Betaling verlopen;55;1-1-2019;Nee
+2;17-7-2020;K. Blom;Tuinsteeg;Dubbel geparkeerd;95;16-8-2020;Nee
+2;22-2-2020;H. Kuypers;Hulststraat;Dubbel geparkeerd;95;23-3-2020;Nee
+4;19-9-2019;G. van der Veen;Bankaplein;Betaling verlopen;55;19-10-2019;Nee
+6;10-3-2019;X. de Boer;Korte Viestraat;Invalideparkeerplek;175;9-4-2019;Nee
+2;6-12-2019;T. Meyer;Spieringpoort;Dubbel geparkeerd;95;5-1-2020;Nee
+6;8-11-2018;R. Groen;Brugsteeg;Invalideparkeerplek;175;8-12-2018;Nee
+6;6-11-2020;Q. Hermans;Bakkerspoort;Invalideparkeerplek;175;6-12-2020;Nee
+4;24-7-2020;X. van de Pol;Mauritsstraat;Betaling verlopen;55;23-8-2020;Nee
+7;27-8-2018;U. Bakker;Groenesteeg;Nooduitgang;85;26-9-2018;Nee
+6;27-10-2019;F. Blom;Arentzstraat;Invalideparkeerplek;175;26-11-2019;Nee
+7;24-10-2019;O. de Bruin;Hopstraat;Nooduitgang;85;23-11-2019;Nee
+5;31-1-2020;B. Groen;Amaliastraat;Geen vergunning;175;1-3-2020;Nee
+4;13-7-2019;T. Kuipers;Badstraat;Betaling verlopen;55;12-8-2019;Nee
+7;6-12-2019;C. Kuiper;Kovelaarstraat;Nooduitgang;85;5-1-2020;Nee
+6;26-10-2019;P. Driessen;Riouwstraat;Invalideparkeerplek;175;25-11-2019;Nee
+2;7-9-2018;P. van Dijk;Spechtstraat 1e;Dubbel geparkeerd;95;7-10-2018;Nee
+5;20-3-2020;Y. de Leeuw;Papaverstraat;Geen vergunning;175;19-4-2020;Nee
+3;13-7-2018;E. van den Bosch;Stroosteeg;Niet betaald;55;12-8-2018;Nee
+2;28-3-2019;C. de Vries;Elisabethsteeg;Dubbel geparkeerd;95;27-4-2019;Nee
+4;20-5-2020;U. Prins;Pieterserf;Betaling verlopen;55;19-6-2020;Nee
+3;29-6-2020;Y. van Dijk;Mulderstraat;Niet betaald;55;29-7-2020;Nee
+2;27-7-2018;C. van de Brink;Heiligeweg;Dubbel geparkeerd;95;26-8-2018;Nee
+6;21-6-2018;Z. van Dijk;Zilversteeg;Invalideparkeerplek;175;21-7-2018;Nee
+3;5-5-2018;N. Smeets;Rozenstraat;Niet betaald;55;4-6-2018;Nee
+2;20-9-2019;J. Veenstra;Weteringstraat;Dubbel geparkeerd;95;20-10-2019;Nee
+5;3-8-2020;M. Wolters;Zaagstraat;Geen vergunning;175;2-9-2020;Nee
+5;20-5-2018;B. de Bruyn;Sterrebosch;Geen vergunning;175;19-6-2018;Nee
+3;21-5-2019;Z. Vos;Zaagmolenkade;Niet betaald;55;20-6-2019;Nee
+4;29-5-2018;V. van Doorn;Wittevrouwenkade;Betaling verlopen;55;28-6-2018;Nee
+4;21-8-2019;O. Willems;Hertestraat;Betaling verlopen;55;20-9-2019;Nee
+7;16-7-2018;Z. Meijer;Lange Hartsteeg;Nooduitgang;85;15-8-2018;Nee
+2;23-1-2020;S. Schouten;Wolvenstraat;Dubbel geparkeerd;95;22-2-2020;Nee
+6;12-11-2019;O. Schipper;Ambachtstraat;Invalideparkeerplek;175;12-12-2019;Nee
+5;11-4-2020;F. Schipper;Kraanstraat;Geen vergunning;175;11-5-2020;Nee
+7;14-3-2019;T. Gerritsen;Dijkstraat;Nooduitgang;85;13-4-2019;Nee
+3;18-8-2019;Y. Janssen;Jacobskerkhof;Niet betaald;55;17-9-2019;Nee
+2;18-9-2020;C. Kuypers;Breedstraat;Dubbel geparkeerd;95;18-10-2020;Nee
+3;6-3-2018;J. Kuipers;Kleine Lijnpad 1e;Niet betaald;55;5-4-2018;Nee
+6;21-9-2018;J. Martens;Gildstraat;Invalideparkeerplek;175;21-10-2018;Nee
+7;21-5-2018;J. Vermeulen;Andreasstraat;Nooduitgang;85;20-6-2018;Nee
+3;11-12-2018;U. Dijkstra;Spindersteeg;Niet betaald;55;10-1-2019;Nee
+4;1-8-2020;C. Evers;Nauwe Muntsteeg;Betaling verlopen;55;31-8-2020;Nee
+2;2-5-2019;A. Kuipers;Floris Heermalestraat;Dubbel geparkeerd;95;1-6-2019;Nee
+2;25-3-2019;L. de Koning;Kruisweg;Dubbel geparkeerd;95;24-4-2019;Nee
+6;20-1-2019;T. van de Meer;Paijenborgsteeg;Invalideparkeerplek;175;19-2-2019;Nee
+6;29-12-2018;J. van de Wal;Baansteeg 1e;Invalideparkeerplek;175;28-1-2019;Nee
+3;25-9-2020;B. van der Veen;Zakkendragersteeg;Niet betaald;55;25-10-2020;Nee
+2;30-3-2020;T. de Boer;Stadhuisbrug;Dubbel geparkeerd;95;29-4-2020;Nee
+7;6-12-2018;H. van den Pol;Jacobskerksteeg;Nooduitgang;85;5-1-2019;Nee
+3;5-6-2020;T. van Dijk;Pieterskerkhof;Niet betaald;55;5-7-2020;Nee
+2;23-11-2020;A. Bosman;Nathanaëlspoort;Dubbel geparkeerd;95;23-12-2020;Nee
+7;7-11-2019;F. Visser;Singeldwarsstraat;Nooduitgang;85;7-12-2019;Nee
+5;16-9-2018;S. Willems;Damstraat;Geen vergunning;175;16-10-2018;Nee
+2;11-8-2020;A. Hendriks;Mariahoek;Dubbel geparkeerd;95;10-9-2020;Nee
+4;28-11-2019;L. van den Pol;Kolfstraat;Betaling verlopen;55;28-12-2019;Nee
+5;7-9-2020;I. Martens;Keisteeg;Geen vergunning;175;7-10-2020;Nee
+7;2-4-2018;V. de Graaf;Hardebollenstraat;Nooduitgang;85;2-5-2018;Nee
+7;9-10-2018;G. Dijkstra;Servaaspark;Nooduitgang;85;8-11-2018;Nee
+5;10-3-2018;S. de Boer;Leidsche Veer;Geen vergunning;175;9-4-2018;Nee
+3;16-11-2020;L. Smits;Predikheerenstraat;Niet betaald;55;16-12-2020;Nee
+3;19-12-2018;E. van den Velden;Noteboomenlaan;Niet betaald;55;18-1-2019;Nee
+6;4-5-2018;Z. van der Pol;Tulpstraat;Invalideparkeerplek;175;3-6-2018;Nee
+3;21-4-2018;R. de Graaf;Speykstraat (van);Niet betaald;55;21-5-2018;Nee
+3;2-4-2018;G. Mulder;Kranenburg;Niet betaald;55;2-5-2018;Nee
+7;4-11-2020;C. Evers;Drieharingstraat;Nooduitgang;85;4-12-2020;Nee
+5;28-8-2019;X. de Vries;Vleutensche Vaart;Geen vergunning;175;27-9-2019;Nee
+3;19-10-2018;O. Smeets;Nieuwe Koekoekstraat;Niet betaald;55;18-11-2018;Nee
+6;24-8-2020;J. Kok;Hennipstraat;Invalideparkeerplek;175;23-9-2020;Nee
+5;4-4-2018;S. de Jonge;Valkstraat;Geen vergunning;175;4-5-2018;Nee
+5;12-5-2019;Z. Mulder;Achterstraat 3e;Geen vergunning;175;11-6-2019;Nee
+4;15-12-2018;E. Maas;Nauwe Watersteeg;Betaling verlopen;55;14-1-2019;Nee
+5;3-12-2018;V. Postma;Bolstraat;Geen vergunning;175;2-1-2019;Nee
+2;22-5-2019;C. Bosman;Vlasstraat;Dubbel geparkeerd;95;21-6-2019;Nee
+2;15-12-2018;Q. Schouten;Buurkerksteeg 1e;Dubbel geparkeerd;95;14-1-2019;Nee
+7;23-8-2019;U. Schouten;Trans;Nooduitgang;85;22-9-2019;Nee
+3;25-9-2018;U. Timmermans;Keistraat;Niet betaald;55;25-10-2018;Nee
+5;18-6-2019;U. de Koning;Valkstraat;Geen vergunning;175;18-7-2019;Nee
+4;6-3-2019;D. de Groot;Rijnkade;Betaling verlopen;55;5-4-2019;Nee
+3;6-8-2019;B. Willems;Nicolaas Beetsstraat;Niet betaald;55;5-9-2019;Nee
+6;4-9-2018;X. de Jonge;Wijde Poort;Invalideparkeerplek;175;4-10-2018;Nee
+2;7-7-2018;L. Wolters;Kleine Tuinstraat;Dubbel geparkeerd;95;6-8-2018;Nee
+7;28-2-2019;O. van den Pol;Spiegelpoort;Nooduitgang;85;30-3-2019;Nee
+6;16-8-2019;U. van der Pol;Oudwijkerdwarsstraat;Invalideparkeerplek;175;15-9-2019;Nee
+6;20-12-2018;B. de Boer;Jacobskerkhof;Invalideparkeerplek;175;19-1-2019;Nee
+5;21-6-2018;W. de Wit;Suikerstraat;Geen vergunning;175;21-7-2018;Nee
+5;20-4-2020;X. Kuiper;Loefbergmakerstraat;Geen vergunning;175;20-5-2020;Nee
+6;9-9-2018;K. Meijer;Kerkdwarsstraat;Invalideparkeerplek;175;9-10-2018;Nee
+5;9-11-2019;J. Gerritsen;Admir. Van Ghentstraat;Geen vergunning;175;9-12-2019;Nee
+6;9-7-2020;E. van Wijk;Willem van Noortstraat;Invalideparkeerplek;175;8-8-2020;Nee
+2;15-11-2019;L. de Ruiter;Kuipersteeg;Dubbel geparkeerd;95;15-12-2019;Nee
+7;5-8-2020;V. Koning;Waterpoort;Nooduitgang;85;4-9-2020;Nee
+4;16-4-2018;S. Bakker;Hamburgerstraat;Betaling verlopen;55;16-5-2018;Nee
+6;29-5-2020;L. Gerritsen;Zaagstraat;Invalideparkeerplek;175;28-6-2020;Nee
+3;25-11-2019;O. Schouten;Begijnesteeg 2e;Niet betaald;55;25-12-2019;Nee
+4;4-12-2019;N. Willems;Laddersteeg;Betaling verlopen;55;3-1-2020;Nee
+5;26-7-2019;V. Kramer;Domplein;Geen vergunning;175;25-8-2019;Nee
+3;15-7-2019;O. Wolters;Sterrebosch;Niet betaald;55;14-8-2019;Nee
+4;24-3-2020;O. Kuipers;Westravenstraat;Betaling verlopen;55;23-4-2020;Nee
+6;20-10-2020;C. Evers;Kovelaarstraat;Invalideparkeerplek;175;19-11-2020;Nee
+6;18-6-2019;V. Bosman;Hendrik de Keyserstraat;Invalideparkeerplek;175;18-7-2019;Nee
+2;10-3-2018;Y. Vermeulen;Diaconiepoort;Dubbel geparkeerd;95;9-4-2018;Nee
+7;2-10-2020;P. Jacobs;Abstederdijk;Nooduitgang;85;1-11-2020;Nee
+2;3-6-2020;W. Kuiper;Covelsteeg;Dubbel geparkeerd;95;3-7-2020;Nee
+5;28-7-2018;N. Hendriks;Heerenweg;Geen vergunning;175;27-8-2018;Nee
+2;27-10-2019;I. van der Laan;Raamsteeg;Dubbel geparkeerd;95;26-11-2019;Nee
+6;19-5-2018;Z. Evers;Merwedekanaal;Invalideparkeerplek;175;18-6-2018;Nee
+2;26-2-2019;M. van der Laan;Spechtstraat 2e;Dubbel geparkeerd;95;28-3-2019;Nee
+7;26-10-2018;M. van der Velde;Pieterstraat;Nooduitgang;85;25-11-2018;Nee
+6;15-6-2020;C. Visser;Mariahoek;Invalideparkeerplek;175;15-7-2020;Nee
+3;4-9-2018;N. Verhoeven;Kievitdwarsstraat;Niet betaald;55;4-10-2018;Nee
+6;5-8-2020;I. Kok;Hoogelanden WZ;Invalideparkeerplek;175;4-9-2020;Nee
+2;30-3-2020;B. Sanders;Molenwerfsteeg;Dubbel geparkeerd;95;29-4-2020;Nee
+6;20-1-2020;G. van Dam;Visschersplein;Invalideparkeerplek;175;19-2-2020;Nee
+5;8-4-2018;M. van der Linden;Achterom;Geen vergunning;175;8-5-2018;Nee
+7;2-10-2018;A. Maas;Andreasstraat;Nooduitgang;85;1-11-2018;Nee
+5;21-11-2019;G. Maas;Pelmolenweg;Geen vergunning;175;21-12-2019;Nee
+2;11-9-2020;A. Kuiper;Lichtegaard;Dubbel geparkeerd;95;11-10-2020;Nee
+6;4-8-2018;H. de Jong;Spindersteeg;Invalideparkeerplek;175;3-9-2018;Nee
+6;29-4-2019;W. Dijkstra;Obrechtstraat;Invalideparkeerplek;175;29-5-2019;Nee
+5;18-9-2019;B. van den Velde;Leliestraat;Geen vergunning;175;18-10-2019;Nee
+7;31-5-2019;B. de Ruiter;Jacobijnestraat;Nooduitgang;85;30-6-2019;Nee
+2;19-8-2020;Q. van der Ven;Manenburg;Dubbel geparkeerd;95;18-9-2020;Nee
+6;6-10-2018;B. Evers;Duifstraat;Invalideparkeerplek;175;5-11-2018;Nee
+3;25-10-2018;F. Sanders;Zandhofschestraat;Niet betaald;55;24-11-2018;Nee
+4;2-12-2019;J. van Veen;Vlietstraat;Betaling verlopen;55;1-1-2020;Nee
+2;20-1-2020;X. Schipper;Wagenstraat;Dubbel geparkeerd;95;19-2-2020;Nee
+5;18-11-2020;L. Hoekstra;hazelaarstraat;Geen vergunning;175;18-12-2020;Nee
+3;13-5-2019;T. de Vos;Berkstraat;Niet betaald;55;12-6-2019;Nee
+7;13-4-2019;F. van der Heijden;Catharijnesingel;Nooduitgang;85;13-5-2019;Nee
+5;13-1-2020;D. Vermeulen;Herman Saftlevenstraat;Geen vergunning;175;12-2-2020;Nee
+5;25-6-2020;M. van den Velde;Dorstige-hartsteeg;Geen vergunning;175;25-7-2020;Nee
+7;21-4-2020;D. Brouwer;Zonnenburg;Nooduitgang;85;21-5-2020;Nee
+5;14-3-2019;V. de Wit;Otterstraat;Geen vergunning;175;13-4-2019;Nee
+7;26-11-2019;A. van de Velde;Fockstraat;Nooduitgang;85;26-12-2019;Nee
+3;26-5-2018;X. Post;Lange Jufferstraat;Niet betaald;55;25-6-2018;Nee
+3;14-8-2020;P. de Lange;Militaire Weg;Niet betaald;55;13-9-2020;Nee
+5;10-3-2020;S. van der Wal;Renstraat;Geen vergunning;175;9-4-2020;Nee
+6;19-11-2018;F. van de Velden;Dondersstraat (F.C.);Invalideparkeerplek;175;19-12-2018;Nee
+2;13-8-2019;Z. Koning;Leliestraat;Dubbel geparkeerd;95;12-9-2019;Nee
+3;26-9-2019;V. van der Laan;Rondpoort;Niet betaald;55;26-10-2019;Nee
+3;3-9-2018;G. van de Velde;Lageweidsche dijk;Niet betaald;55;3-10-2018;Nee
+7;29-4-2019;M. Hendriks;Rozenhofje;Nooduitgang;85;29-5-2019;Nee
+2;17-3-2020;P. van der Berg;Ondiep;Dubbel geparkeerd;95;16-4-2020;Nee
+2;28-8-2020;A. Evers;Noorderstraat;Dubbel geparkeerd;95;27-9-2020;Nee
+6;9-11-2020;N. van der Heijden;Antoniedijk;Invalideparkeerplek;175;9-12-2020;Nee
+6;4-12-2018;B. van den Pol;Westerdijk;Invalideparkeerplek;175;3-1-2019;Nee
+5;5-5-2020;L. Bakker;Abraham Dolesteeg;Geen vergunning;175;4-6-2020;Nee
+2;16-3-2018;O. Post;Wittevrouwenkade;Dubbel geparkeerd;95;15-4-2018;Nee
+6;15-6-2018;P. Brouwer;Pieterstraat;Invalideparkeerplek;175;15-7-2018;Nee
+2;14-8-2018;J. van de Brink;Korte Jufferstraat;Dubbel geparkeerd;95;13-9-2018;Nee
+7;8-9-2020;Y. van de Veen;Heemskerkstraat;Nooduitgang;85;8-10-2020;Nee
+6;5-11-2019;E. Koning;Piet Heinstraat;Invalideparkeerplek;175;5-12-2019;Nee
+7;2-1-2019;Z. Postma;Choorstraat;Nooduitgang;85;1-2-2019;Nee
+3;15-4-2019;U. van Loon;Heerenhofje;Niet betaald;55;15-5-2019;Nee
+6;14-4-2018;U. van de Brink;Sterrenburg;Invalideparkeerplek;175;14-5-2018;Nee
+5;31-10-2019;S. van der Linden;Korte Nieuwstraat;Geen vergunning;175;30-11-2019;Nee
+6;10-1-2019;N. van den Velden;Draaiweg;Invalideparkeerplek;175;9-2-2019;Nee
+4;30-6-2018;K. Bosman;Mulderstraat;Betaling verlopen;55;30-7-2018;Nee
+4;27-4-2020;V. Prins;Onder de Linden;Betaling verlopen;55;27-5-2020;Nee
+3;7-4-2020;P. van de Velde;Korte Jansstraat;Niet betaald;55;7-5-2020;Nee
+3;13-11-2020;I. Bakker;Kwakkeldijk;Niet betaald;55;13-12-2020;Nee
+7;30-3-2019;C. Kuypers;Lange Hartsteeg;Nooduitgang;85;29-4-2019;Nee
+4;2-9-2018;F. van der Meulen;Sionskameren;Betaling verlopen;55;2-10-2018;Nee
+6;1-3-2019;Q. van Doorn;Knopstraat;Invalideparkeerplek;175;31-3-2019;Nee
+2;5-3-2020;K. van der Linden;Kievitdwarsstraat;Dubbel geparkeerd;95;4-4-2020;Nee
+6;15-4-2020;B. Martens;Piet Heinstraat;Invalideparkeerplek;175;15-5-2020;Nee
+7;1-5-2020;J. Dekker;Keisteeg;Nooduitgang;85;31-5-2020;Nee
+7;26-4-2018;J. Kuypers;Ridderhofstad;Nooduitgang;85;26-5-2018;Nee
+6;2-3-2020;B. Post;Predikheerenstraat;Invalideparkeerplek;175;1-4-2020;Nee
+3;27-7-2018;E. Hoekstra;Vredeplaats;Niet betaald;55;26-8-2018;Nee
+6;13-11-2020;B. van der Veen;Staalstraat;Invalideparkeerplek;175;13-12-2020;Nee
+4;23-3-2018;X. van der Heijden;Soendastraat;Betaling verlopen;55;22-4-2018;Nee
+7;10-3-2018;S. Dijkstra;Grietstraat;Nooduitgang;85;9-4-2018;Nee
+6;9-6-2020;W. Verhoeven;Papaverstraat;Invalideparkeerplek;175;9-7-2020;Nee
+3;11-12-2019;S. Mulder;Jacobijnestraat;Niet betaald;55;10-1-2020;Nee
+6;19-10-2018;W. de Leeuw;Zuilensteeg;Invalideparkeerplek;175;18-11-2018;Nee
+5;21-11-2020;R. Scholten;Vredenburg;Geen vergunning;175;21-12-2020;Nee
+2;25-7-2020;S. Kuipers;Riemstraat;Dubbel geparkeerd;95;24-8-2020;Nee
+4;13-7-2020;T. van de Velde;Delistraat 1e;Betaling verlopen;55;12-8-2020;Nee
+2;29-4-2020;Q. van der Velde;Kranenburg;Dubbel geparkeerd;95;29-5-2020;Nee
+2;4-8-2020;R. Post;Donkerstraat;Dubbel geparkeerd;95;3-9-2020;Nee
+4;26-4-2020;K. Prins;Bremstraat;Betaling verlopen;55;26-5-2020;Nee
