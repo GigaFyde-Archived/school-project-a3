@@ -28,7 +28,7 @@ def validate_input():
     while True:
         clear_screen()
         generate_option_list()
-        selection = input("Please enter one of the options listen above in number form. \n"
+        selection = input("Please enter one of the options listed above in number form. \n"
                           "Alternatively, Press W to write all options to file \n"
                           "Press X to exit the program\n"
                           "Enter your option:  ")
