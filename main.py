@@ -155,7 +155,6 @@ def write_selection_to_file():
 
 
 def exit_program():
-    # use a system code to indicate the reason for exiting the program.
     print("Exiting program as requested")
     # Use system code 0 to indicate success, any value above 0 indicates an error
     exit(0)
